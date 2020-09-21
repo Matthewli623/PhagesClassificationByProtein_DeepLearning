@@ -1,0 +1,778 @@
+﻿prot_tag,prot_id,product,Product_unified,start_stop,size,accession,name,cluster*,origin*
+ASU01169.1,ASU01169.1,tail fiber protein / tubular protein B,tail tubular protein B,[28382:30767](+),794,MF574151.1,"Vibrio phage JSF25, complete genome",2,2
+PV_009,AHN84660.1,putative tail tubular protein B protein,tail tubular protein B,[6264:8865](+),866,KJ502657.1,"Vibrio phage Vc1, complete genome",2,2
+TU18-21_00180,ADX87623.1,tail tubular protein B,tail tubular protein B,[23576:25964](+),795,HQ641343.1,"Vibrio phage ICP3_2008_A, complete genome",2,2
+AHC94070.1,AHC94070.1,tail protein,tail tubular protein B,[25689:28311](+),873,KF800937.1,"Vibrio phage AS51, complete genome",2,2
+QD07_47,APU00184.1,tail protein,tail tubular protein B,[35980:38602](+),873,KY290756.1,"Vibrio phage Vp670, complete genome",2,2
+VPP93_gp31,YP_002875655.1,putative tail tubular protein B,tail tubular protein B,[24740:27083](+),780,NC_012662.1,"Vibrio phage VP93, complete genome",2,2
+CG95_gp15,YP_009009734.1,DNA-binding protein,tail tubular protein B,[29854:30640](-),261,NC_023605.1,"Vibrio phage PVA1, complete genome",2,2
+VN4_34,YP_003347934.1,tail tubular protein B,tail tubular protein B,[22976:25361](+),794,NC_013651.1,"Vibrio phage N4, complete genome",2,2
+VVP4_p22,YP_249591.1,Tail tubular protein B,tail tubular protein B,[23411:25796](+),794,NC_007149.1,"Vibriophage VP4, complete genome",2,2
+TU18-20_00175,ADX87670.1,tail tubular protein B,tail tubular protein B,[23477:25862](+),794,HQ641344.1,"Vibrio phage ICP3_2007_A, complete genome",2,2
+TU18-RWS_00175,ADX87527.1,tail tubular protein B,tail tubular protein B,[23463:25848](+),794,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",2,2
+APD18158.1,APD18158.1,tail fiber protein,tail tubular protein B,[32445:34878](-),810,KY065149.1,"Vibrio phage JSF7, complete genome",2,2
+ViPhICP3_gp41,YP_004251284.1,tail tubular protein B,tail tubular protein B,[23583:25968](+),794,NC_015159.1,"Vibrio phage ICP3, complete genome",2,2
+MS_009,YP_008239665.1,major capsid protein,tail tubular protein B,[4869:6012](+),380,NC_021776.1,"Vibrio phage vpms1, complete genome",2,2
+VPNG_00045,YP_007674140.1,hypothetical protein,viron-encapsulated RNA polymerase,[27797:37460](-),3220,NC_020848.1,Vibrio phage VBP47 genomic sequence,3,3
+vBVspPpVa5_0025,APC46019.1,virion encapsulated RNA polymerase protein,viron-encapsulated RNA polymerase,[24391:34426](+),3344,KX889068.2,"Vibrio phage pVa5, complete genome",3,3
+M612_gp50,YP_008126816.1,viron-encapsulated RNA polymerase,viron-encapsulated RNA polymerase,[37006:46075](-),3022,NC_021540.1,"Vibrio phage JA-1, complete genome",3,3
+AVV30_gp074,YP_009198592.1,viron-encapsulated RNA polymerase,viron-encapsulated RNA polymerase,[36189:45912](-),3240,NC_028799.1,"Vibrio phage phi 1, complete genome",3,3
+VCO139_0054,AGI61882.1,viron-encapsulated RNA polymerase,viron-encapsulated RNA polymerase,[36699:45768](-),3022,KC438283.1,"Vibrio phage VCO139, complete genome",3,3
+pVco5_111,ARM71100.1,virion-encapsulated RNA polymerase,viron-encapsulated RNA polymerase,[48733:58021](-),3095,KY612839.1,"Vibrio phage pVco-5, complete genome",3,3
+APD18049.1,APD18049.1,ribonuclease E,viron-encapsulated RNA polymerase,[22555:31624](+),3022,KY065148.1,"Vibrio phage JSF3, complete genome",3,3
+VPMG_00084,YP_007676574.1,hypothetical protein,viron-encapsulated RNA polymerase,[45965:55628](+),3220,NC_020868.1,Vibrio phage VBP32 genomic sequence,3,3
+AVV30_gp067,YP_009198585.1,hypothetical protein,hypothetical protein,[30938:33104](+),721,NC_028799.1,"Vibrio phage phi 1, complete genome",5,5
+vBVspPpVa5_0030,APC46022.1,DNA primase protein,hypothetical protein,[37134:39300](-),721,KX889068.2,"Vibrio phage pVa5, complete genome",5,5
+M612_gp55,YP_008126811.1,hypothetical protein,hypothetical protein,[31998:33921](+),640,NC_021540.1,"Vibrio phage JA-1, complete genome",5,5
+pVco5_101,ARM71089.1,hypothetical protein,hypothetical protein,[42927:45093](+),721,KY612839.1,"Vibrio phage pVco-5, complete genome",5,5
+VPMG_00091,YP_007676581.1,hypothetical protein,hypothetical protein,[58799:60950](-),716,NC_020868.1,Vibrio phage VBP32 genomic sequence,5,5
+M612_gp57,YP_008126809.1,hypothetical protein,hypothetical protein,[30708:30951](+),80,NC_021540.1,"Vibrio phage JA-1, complete genome",5,5
+AVV30_gp077,YP_009198595.1,hypothetical protein,hypothetical protein,[47599:49804](-),734,NC_028799.1,"Vibrio phage phi 1, complete genome",7,7
+MS_045,YP_008239701.1,hypothetical protein,hypothetical protein,[38254:38371](-),38,NC_021776.1,"Vibrio phage vpms1, complete genome",7,7
+pVco5_114,ARM71103.1,hypothetical protein,hypothetical protein,[59586:61761](-),724,KY612839.1,"Vibrio phage pVco-5, complete genome",7,7
+M612_gp47,YP_008126819.1,hypothetical protein,hypothetical protein,[47762:49871](-),702,NC_021540.1,"Vibrio phage JA-1, complete genome",7,7
+APD18046.1,APD18046.1,hypothetical protein,hypothetical protein,[18759:20868](+),702,KY065148.1,"Vibrio phage JSF3, complete genome",7,7
+VPMG_00081,YP_007676571.1,hypothetical protein,hypothetical protein,[42326:44351](+),674,NC_020868.1,Vibrio phage VBP32 genomic sequence,7,7
+vBVspPpVa5_0022,APC46025.1,N4 gp53 protein,hypothetical protein,[20835:22710](+),624,KX889068.2,"Vibrio phage pVa5, complete genome",7,7
+VP3_0043,AFH14443.1,internal virion protein D,internal virion protein D,[29859:33234](+),1124,JQ780163.1,"Vibrio phage VP3, complete genome",8,8
+VPMG_00059,YP_007676549.1,hypothetical protein,internal virion protein D,[21732:21909](+),58,NC_020868.1,Vibrio phage VBP32 genomic sequence,8,8
+ViPhICP3_gp46,YP_004251289.1,internal virion protein D,internal virion protein D,[30033:33417](+),1127,NC_015159.1,"Vibrio phage ICP3, complete genome",8,8
+ASU01174.1,ASU01174.1,protein inside capsid D,internal virion protein D,[34832:38216](+),1127,MF574151.1,"Vibrio phage JSF25, complete genome",8,8
+VVP4_p27,YP_249595.1,internal virion protein D,internal virion protein D,[29861:33236](+),1124,NC_007149.1,"Vibriophage VP4, complete genome",8,8
+VN4_39,YP_003347939.1,internal virion protein D,internal virion protein D,[29426:32810](+),1127,NC_013651.1,"Vibrio phage N4, complete genome",8,8
+pVco5_048,ARM71036.1,hypothetical protein,internal virion protein D,[10706:10823](+),38,KY612839.1,"Vibrio phage pVco-5, complete genome",8,8
+VPR_035,AUG88399.1,hypothetical protein,internal virion protein D,[13223:13682](-),152,MG603697.1,"Vibrio phage Vp_R1, complete genome",8,8
+TU18-RWS_00200,ADX87532.1,internal virion protein D,internal virion protein D,[29913:33297](+),1127,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",8,8
+ViPhICP3_gp37,YP_004251280.1,head-to-tail joining protein,head-to-tail joining protein,[19131:20730](+),532,NC_015159.1,"Vibrio phage ICP3, complete genome",11,11
+TU18-RWS_00155,ADX87523.1,head-to-tail joining protein,head-to-tail joining protein,[19008:20607](+),532,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",11,11
+PV_005,AHN84656.1,head-tail connector,head-to-tail joining protein,[1689:3315](+),541,KJ502657.1,"Vibrio phage Vc1, complete genome",11,11
+APD18162.1,APD18162.1,collar,head-to-tail joining protein,[37509:39084](-),524,KY065149.1,"Vibrio phage JSF7, complete genome",11,11
+AHC94066.1,AHC94066.1,head portal protein,head-to-tail joining protein,[21230:22859](+),542,KF800937.1,"Vibrio phage AS51, complete genome",11,11
+VPP93_gp27,YP_002875651.1,putative head-tail connector protein,head-to-tail joining protein,[20554:22087](+),510,NC_012662.1,"Vibrio phage VP93, complete genome",11,11
+QD07_43,APU00180.1,head to tail connecting protein,head-to-tail joining protein,[31536:33165](+),542,KY290756.1,"Vibrio phage Vp670, complete genome",11,11
+ASU01165.1,ASU01165.1,collar / head-to-tail joining protein,head-to-tail joining protein,[23931:25530](+),532,MF574151.1,"Vibrio phage JSF25, complete genome",11,11
+VVP4_p17,YP_249587.1,Head-to-tail joining protein,head-to-tail joining protein,[18975:20574](+),532,NC_007149.1,"Vibriophage VP4, complete genome",11,11
+VP5_gp18,YP_024981.1,structural protein,structural protein,[17007:19356](+),782,NC_005891.1,"Vibrio phage VP5, complete genome",12,12
+H1_0019,AIZ01466.1,hypothetical protein,structural protein,[17014:19363](+),782,KM612261.1,"Vibrio phage H1, complete genome",12,12
+ACQ41_gp19,YP_009153045.1,hypothetical protein,structural protein,[17009:19358](+),782,NC_027397.1,"Vibrio phage QH, complete genome",12,12
+I904_gp06,YP_007518348.1,phage tail collar protein,structural protein,[13349:14042](-),230,NC_020488.1,"Vibrio phage VvAW1, complete genome",12,12
+phiVC8_p19,YP_009140148.1,structural protein,structural protein,[16603:18952](+),782,NC_027118.1,"Vibrio phage phiVC8, complete genome",12,12
+VP2p19,YP_024423.1,structural protein,structural protein,[17011:19360](+),782,NC_005879.1,"Vibrio phage VP2, complete genome",12,12
+H1_0015,AIZ01462.1,hypothetical protein,hypothetical protein,[11565:13350](+),594,KM612261.1,"Vibrio phage H1, complete genome",13,13
+VpV262p26,NP_640287.1,hypothetical protein,hypothetical protein,[14068:14353](+),94,NC_003907.2,"Vibrio phage VpV262, complete genome",13,13
+VP5_gp14,YP_053016.1,hypothetical protein,hypothetical protein,[11567:13352](+),594,NC_005891.1,"Vibrio phage VP5, complete genome",13,13
+ACQ41_gp15,YP_009153041.1,hypothetical protein,hypothetical protein,[11569:13354](+),594,NC_027397.1,"Vibrio phage QH, complete genome",13,13
+phiVC8_p15,YP_009140144.1,structural protein,hypothetical protein,[11163:12948](+),594,NC_027118.1,"Vibrio phage phiVC8, complete genome",13,13
+AVV30_gp001,YP_009198519.1,hypothetical protein,hypothetical protein,[182:389](+),68,NC_028799.1,"Vibrio phage phi 1, complete genome",13,13
+VpV262p18,NP_640279.1,hypothetical protein,hypothetical protein,[8776:8950](+),57,NC_003907.2,"Vibrio phage VpV262, complete genome",13,13
+VP2p15,YP_024422.1,hypothetical protein,hypothetical protein,[11562:13347](+),594,NC_005879.1,"Vibrio phage VP2, complete genome",13,13
+VpV262p21,NP_640282.1,hypothetical protein,single stranded DNA-binding protein,[11944:12202](+),85,NC_003907.2,"Vibrio phage VpV262, complete genome",14,14
+phiVC8_p31,YP_009140160.1,ssDNA binding protein,single stranded DNA-binding protein,[28676:29192](-),171,NC_027118.1,"Vibrio phage phiVC8, complete genome",14,14
+VP2p29,YP_024430.1,putative single-stranded DNA-binding protein,single stranded DNA-binding protein,[28860:29337](-),158,NC_005879.1,"Vibrio phage VP2, complete genome",14,14
+H1_0030,AIZ01477.1,single stranded DNA-binding protein,single stranded DNA-binding protein,[28864:29341](-),158,KM612261.1,"Vibrio phage H1, complete genome",14,14
+I904_gp21,YP_007518363.1,single-stranded DNA-binding protein,single stranded DNA-binding protein,[25566:26091](-),174,NC_020488.1,"Vibrio phage VvAW1, complete genome",14,14
+ACQ41_gp29,YP_009153055.1,single stranded DNA-binding protein,single stranded DNA-binding protein,[28708:29185](-),158,NC_027397.1,"Vibrio phage QH, complete genome",14,14
+CHOED_021,YP_009021687.1,hypothetical protein,single stranded DNA-binding protein,[19508:19943](-),144,NC_023863.2,"Vibrio phage CHOED, complete genome",14,14
+VP5_gp29,YP_024987.1,putative single-stranded DNA-binding protein,single stranded DNA-binding protein,[28809:29286](-),158,NC_005891.1,"Vibrio phage VP5, complete genome",14,14
+VCO139_0063,AGI61890.1,portal protein,portal protein,[53438:55556](-),705,KC438283.1,"Vibrio phage VCO139, complete genome",15,15
+AVV30_gp083,YP_009198601.1,portal protein,portal protein,[53681:55799](-),705,NC_028799.1,"Vibrio phage phi 1, complete genome",15,15
+pVco5_120,ARM71109.1,portal protein,portal protein,[66119:68237](-),705,KY612839.1,"Vibrio phage pVco-5, complete genome",15,15
+I904_gp12,YP_007518354.1,hypothetical protein,portal protein,[18879:20946](-),688,NC_020488.1,"Vibrio phage VvAW1, complete genome",15,15
+VPMG_00074,YP_007676564.1,hypothetical protein,portal protein,[35242:37357](+),704,NC_020868.1,Vibrio phage VBP32 genomic sequence,15,15
+VPR_109,AUG88473.1,portal protein,portal protein,[66193:68356](+),720,MG603697.1,"Vibrio phage Vp_R1, complete genome",15,15
+CHOED_089,YP_009021755.1,portal protein,portal protein,[59209:61321](+),703,NC_023863.2,"Vibrio phage CHOED, complete genome",15,15
+M612_gp41,YP_008126825.1,portal protein,portal protein,[53745:55863](-),705,NC_021540.1,"Vibrio phage JA-1, complete genome",15,15
+vBVspPpVa5_0016,APC46023.1,N4 gp59 protein,portal protein,[14140:16276](+),711,KX889068.2,"Vibrio phage pVa5, complete genome",15,15
+VpV262p42,NP_640303.1,hypothetical protein,hypothetical protein,[21312:21645](+),110,NC_003907.2,"Vibrio phage VpV262, complete genome",16,16
+CJY_0022,AIZ01421.1,hypothetical protein,hypothetical protein,[21848:22166](-),105,KM612260.1,"Vibrio phage CJY, complete genome",16,16
+phiVC8_p22,YP_009140151.1,hypothetical protein,hypothetical protein,[21349:21646](-),98,NC_027118.1,"Vibrio phage phiVC8, complete genome",16,16
+VP5_gp21,YP_024982.1,hypothetical protein,hypothetical protein,[21793:22111](-),105,NC_005891.1,"Vibrio phage VP5, complete genome",16,16
+VP2p22,YP_024426.1,hypothetical protein,hypothetical protein,[21845:22163](-),105,NC_005879.1,"Vibrio phage VP2, complete genome",16,16
+MS_034,YP_008239690.1,hypothetical protein,hypothetical protein,[27057:27588](-),176,NC_021776.1,"Vibrio phage vpms1, complete genome",16,16
+H1_0022,AIZ01469.1,hypothetical protein,hypothetical protein,[21848:22166](-),105,KM612261.1,"Vibrio phage H1, complete genome",16,16
+VPR_107,AUG88471.1,hypothetical protein,hypothetical protein,[63668:64595](+),308,MG603697.1,"Vibrio phage Vp_R1, complete genome",18,18
+VpV262p67,NP_640328.1,hypothetical protein,hypothetical protein,[44880:45126](+),81,NC_003907.2,"Vibrio phage VpV262, complete genome",18,18
+vBVspPpVa5_0056,APC46040.1,hypothetical protein,hypothetical protein,[55699:56620](+),306,KX889068.2,"Vibrio phage pVa5, complete genome",18,18
+CHOED_075,YP_009021741.1,hypothetical protein,hypothetical protein,[47304:47622](-),105,NC_023863.2,"Vibrio phage CHOED, complete genome",18,18
+pVco5_110,ARM71099.1,hypothetical protein,hypothetical protein,[48486:48705](+),72,KY612839.1,"Vibrio phage pVco-5, complete genome",18,18
+MS_014,YP_008239670.1,primase/helicase,hypothetical protein,[7782:8589](+),268,NC_021776.1,"Vibrio phage vpms1, complete genome",18,18
+VPMG_00112,YP_007676602.1,hypothetical protein,hypothetical protein,[74725:75706](+),326,NC_020868.1,Vibrio phage VBP32 genomic sequence,18,18
+vBVspPpVa5_0084,APC46088.1,hypothetical protein,hypothetical protein,[70220:70472](-),83,KX889068.2,"Vibrio phage pVa5, complete genome",18,18
+MS_051,YP_008239707.1,hypothetical protein,hypothetical protein,[41101:41287](-),61,NC_021776.1,"Vibrio phage vpms1, complete genome",18,18
+ACQ41_gp03,YP_009153029.1,terminase,terminase large subunit,[1134:2841](+),568,NC_027397.1,"Vibrio phage QH, complete genome",20,20
+VP5_gp02,YP_024977.1,hypothetical protein,terminase large subunit,[1132:2839](+),568,NC_005891.1,"Vibrio phage VP5, complete genome",20,20
+H1_0003,AIZ01450.1,terminase,terminase large subunit,[1136:2843](+),568,KM612261.1,"Vibrio phage H1, complete genome",20,20
+MS_005,YP_008239661.1,terminase large subunit,terminase large subunit,[1591:3241](-),549,NC_021776.1,"Vibrio phage vpms1, complete genome",20,20
+phiVC8_p03,YP_009140132.1,terminase large subunit,terminase large subunit,[725:2432](+),568,NC_027118.1,"Vibrio phage phiVC8, complete genome",20,20
+H1_0007,AIZ01454.1,hypothetical protein,hypothetical protein,[4998:5841](+),280,KM612261.1,"Vibrio phage H1, complete genome",21,21
+VP5_gp06,YP_053010.1,hypothetical protein,hypothetical protein,[4958:5837](+),292,NC_005891.1,"Vibrio phage VP5, complete genome",21,21
+CJY_0007,AIZ01406.1,hypothetical protein,hypothetical protein,[4998:5841](+),280,KM612260.1,"Vibrio phage CJY, complete genome",21,21
+VpV262p59,NP_640320.1,hypothetical protein,hypothetical protein,[39027:39294](-),88,NC_003907.2,"Vibrio phage VpV262, complete genome",21,21
+VPR_068,AUG88432.1,hypothetical protein,hypothetical protein,[29641:30733](-),363,MG603697.1,"Vibrio phage Vp_R1, complete genome",21,21
+phiVC8_p07,YP_009140136.1,hypothetical protein,hypothetical protein,[4551:5439](+),295,NC_027118.1,"Vibrio phage phiVC8, complete genome",21,21
+ViPhICP3_gp18,YP_004251261.1,DNA primase/helicase,DNA primase/helicase,[8646:10353](+),568,NC_015159.1,"Vibrio phage ICP3, complete genome",23,23
+ASU01146.1,ASU01146.1,primase/helicase protein,DNA primase/helicase,[13431:15153](+),573,MF574151.1,"Vibrio phage JSF25, complete genome",23,23
+TU18-21_00070,ADX87601.1,DNA primase/helicase,DNA primase/helicase,[8639:10346](+),568,HQ641343.1,"Vibrio phage ICP3_2008_A, complete genome",23,23
+PV_030,AHN84681.1,DNA helicase,DNA primase/helicase,[31989:34104](+),704,KJ502657.1,"Vibrio phage Vc1, complete genome",23,23
+VN4_12,YP_003347912.1,DNA primase/helicase,DNA primase/helicase,[7896:9603](+),568,NC_013651.1,"Vibrio phage N4, complete genome",23,23
+CHOED_042,YP_009021708.1,DNA primase,DNA primase/helicase,[31490:33218](-),575,NC_023863.2,"Vibrio phage CHOED, complete genome",23,23
+AHC94052.1,AHC94052.1,DNA primase,DNA primase/helicase,[6994:9091](+),698,KF800937.1,"Vibrio phage AS51, complete genome",23,23
+VP3_0015,AFH14415.1,DNA primase/helicase,DNA primase/helicase,[8483:10208](+),574,JQ780163.1,"Vibrio phage VP3, complete genome",23,23
+QD07_23,APU00160.1,hydrolase/topoisomerase-primase,DNA primase/helicase,[17579:19676](+),698,KY290756.1,"Vibrio phage Vp670, complete genome",23,23
+VPR_051,AUG88415.1,DNA primase/helicase,DNA primase/helicase,[20010:21801](-),596,MG603697.1,"Vibrio phage Vp_R1, complete genome",23,23
+H1_0017,AIZ01464.1,hypothetical protein,hypothetical protein,[13756:15841](+),694,KM612261.1,"Vibrio phage H1, complete genome",24,24
+VP2p17,YP_052985.1,hypothetical protein,hypothetical protein,[13753:15838](+),694,NC_005879.1,"Vibrio phage VP2, complete genome",24,24
+ACQ41_gp17,YP_009153043.1,hypothetical protein,hypothetical protein,[13751:15836](+),694,NC_027397.1,"Vibrio phage QH, complete genome",24,24
+VPR_124,AUG88488.1,hypothetical protein,hypothetical protein,[84921:86718](+),598,MG603697.1,"Vibrio phage Vp_R1, complete genome",24,24
+phiVC8_p17,YP_009140146.1,structural protein,hypothetical protein,[13345:15430](+),694,NC_027118.1,"Vibrio phage phiVC8, complete genome",24,24
+VP5_gp16,YP_053018.1,hypothetical protein,hypothetical protein,[13749:15834](+),694,NC_005891.1,"Vibrio phage VP5, complete genome",24,24
+vBVspPpVa5_0088,APC46095.1,hypothetical protein,hypothetical protein,[71109:71349](-),79,KX889068.2,"Vibrio phage pVa5, complete genome",24,24
+CHOED_07,YP_009021673.1,hypothetical protein,hypothetical protein,[5855:6065](+),69,NC_023863.2,"Vibrio phage CHOED, complete genome",25,25
+VP2p37,YP_052996.1,hypothetical protein,hypothetical protein,[34997:35624](-),208,NC_005879.1,"Vibrio phage VP2, complete genome",25,25
+H1_0039,AIZ01486.1,hypothetical protein,hypothetical protein,[34807:35578](-),256,KM612261.1,"Vibrio phage H1, complete genome",25,25
+phiVC8_p40,YP_009140169.1,hypothetical protein,hypothetical protein,[34620:35421](-),266,NC_027118.1,"Vibrio phage phiVC8, complete genome",25,25
+VP5_gp38,YP_053032.1,hypothetical protein,hypothetical protein,[34770:35175](-),134,NC_005891.1,"Vibrio phage VP5, complete genome",25,25
+ACQ41_gp38,YP_009153064.1,hypothetical protein,hypothetical protein,[34686:35457](-),256,NC_027397.1,"Vibrio phage QH, complete genome",25,25
+VP5_gp39,YP_053033.1,hypothetical protein,hypothetical protein,[35170:35572](-),133,NC_005891.1,"Vibrio phage VP5, complete genome",25,25
+VP5_gp43,YP_053037.1,hypothetical protein,hypothetical protein,[36849:36966](-),38,NC_005891.1,"Vibrio phage VP5, complete genome",26,26
+I904_gp14,YP_007518356.1,terminase small subunit,hypothetical protein,[22577:23201](-),207,NC_020488.1,"Vibrio phage VvAW1, complete genome",26,26
+phiVC8_p43,YP_009140172.1,hypothetical protein,hypothetical protein,[36542:36836](-),97,NC_027118.1,"Vibrio phage phiVC8, complete genome",26,26
+VP2p42,YP_053001.1,hypothetical protein,hypothetical protein,[37406:37709](-),100,NC_005879.1,"Vibrio phage VP2, complete genome",26,26
+H1_0044,AIZ01491.1,hypothetical protein,hypothetical protein,[37351:37576](-),74,KM612261.1,"Vibrio phage H1, complete genome",26,26
+VCO139_0070,AGI61896.1,hypothetical protein,hypothetical protein,[63682:63820](+),45,KC438283.1,"Vibrio phage VCO139, complete genome",27,27
+pVco5_013,ARM71001.1,hypothetical protein,hypothetical protein,[3400:3538](+),45,KY612839.1,"Vibrio phage pVco-5, complete genome",27,27
+pVco5_022,ARM71010.1,hypothetical protein,hypothetical protein,[4576:4720](+),47,KY612839.1,"Vibrio phage pVco-5, complete genome",27,27
+M612_gp33,YP_008126833.1,hypothetical protein,hypothetical protein,[64449:64632](+),60,NC_021540.1,"Vibrio phage JA-1, complete genome",27,27
+APD18032.1,APD18032.1,hypothetical protein,hypothetical protein,[4506:4641](-),44,KY065148.1,"Vibrio phage JSF3, complete genome",27,27
+M612_gp34,YP_008126832.1,hypothetical protein,hypothetical protein,[63989:64127](+),45,NC_021540.1,"Vibrio phage JA-1, complete genome",27,27
+AVV30_gp091,YP_009198609.1,hypothetical protein,hypothetical protein,[62178:62310](+),43,NC_028799.1,"Vibrio phage phi 1, complete genome",27,27
+pVco5_020,ARM71008.1,hypothetical protein,hypothetical protein,[4304:4469](+),54,KY612839.1,"Vibrio phage pVco-5, complete genome",27,27
+APD18031.1,APD18031.1,hypothetical protein,hypothetical protein,[4252:4396](-),47,KY065148.1,"Vibrio phage JSF3, complete genome",27,27
+CHOED_055,YP_009021721.1,hypothetical protein,hypothetical protein,[36997:37336](-),112,NC_023863.2,"Vibrio phage CHOED, complete genome",27,27
+AVV30_gp092,YP_009198610.1,hypothetical protein,hypothetical protein,[62296:62434](+),45,NC_028799.1,"Vibrio phage phi 1, complete genome",27,27
+AVV30_gp093,YP_009198611.1,hypothetical protein,hypothetical protein,[62420:62564](+),47,NC_028799.1,"Vibrio phage phi 1, complete genome",27,27
+pVco5_023,ARM71011.1,hypothetical protein,hypothetical protein,[4706:4862](+),51,KY612839.1,"Vibrio phage pVco-5, complete genome",27,<5HMMmrg
+PV_019,AHN84670.1,hypothetical protein,hypothetical protein,[22169:23918](+),582,KJ502657.1,"Vibrio phage Vc1, complete genome",30,30
+VPR_040,AUG88404.1,nicotinamide phosphoribosyltransferase,hypothetical protein,[15324:16890](-),521,MG603697.1,"Vibrio phage Vp_R1, complete genome",30,30
+vBVspPpVa5_0007,APC46030.1,hypothetical protein,hypothetical protein,[5603:7097](+),497,KX889068.2,"Vibrio phage pVa5, complete genome",30,30
+AHC94077.1,AHC94077.1,hypothetical protein,hypothetical protein,[38778:40455](+),558,KF800937.1,"Vibrio phage AS51, complete genome",30,30
+AHC94075.1,AHC94075.1,small terminase-like protein,hypothetical protein,[35886:36231](+),114,KF800937.1,"Vibrio phage AS51, complete genome",30,<5
+QD07_4,APU00141.1,small terminase subunit,hypothetical protein,[5399:5744](+),114,KY290756.1,"Vibrio phage Vp670, complete genome",30,<5
+RJ80_gp38,YP_009110750.1,small terminase subunit-like protein,hypothetical protein,[35888:36233](+),114,NC_025822.1,"Vibrio phage phi-A318, complete genome",30,<5
+ACQ41_gp40,YP_009153066.1,hypothetical protein,hypothetical protein,[36050:36557](-),168,NC_027397.1,"Vibrio phage QH, complete genome",31,31
+pVco5_004,ARM70992.1,hypothetical protein,hypothetical protein,[1202:1838](+),211,KY612839.1,"Vibrio phage pVco-5, complete genome",31,31
+VP2p39,YP_052998.1,hypothetical protein,hypothetical protein,[36427:36859](-),143,NC_005879.1,"Vibrio phage VP2, complete genome",31,31
+phiVC8_p42,YP_009140171.1,hypothetical protein,hypothetical protein,[35984:36437](-),150,NC_027118.1,"Vibrio phage phiVC8, complete genome",31,31
+H1_0041,AIZ01488.1,hypothetical protein,hypothetical protein,[36171:36621](-),149,KM612261.1,"Vibrio phage H1, complete genome",31,31
+VP5_gp42,YP_053036.1,hypothetical protein,hypothetical protein,[36374:36794](-),139,NC_005891.1,"Vibrio phage VP5, complete genome",31,31
+VP5_gp03,YP_024978.1,hypothetical protein,head to tail connecting protein,[2849:4493](+),547,NC_005891.1,"Vibrio phage VP5, complete genome",32,32
+ACQ42_gp04,YP_009152755.1,hypothetical protein,head to tail connecting protein,[2853:4497](+),547,NC_027393.1,"Vibrio phage J2, complete genome",32,32
+ACQ41_gp04,YP_009153030.1,hypothetical protein,head to tail connecting protein,[2851:4495](+),547,NC_027397.1,"Vibrio phage QH, complete genome",32,32
+phiVC8_p04,YP_009140133.1,head to tail connecting protein,head to tail connecting protein,[2442:4086](+),547,NC_027118.1,"Vibrio phage phiVC8, complete genome",32,32
+H1_0004,AIZ01451.1,hypothetical protein,head to tail connecting protein,[2853:4497](+),547,KM612261.1,"Vibrio phage H1, complete genome",32,32
+ACQ41_gp14,YP_009153040.1,major tail subunit,major tail subunit,[9329:11561](+),743,NC_027397.1,"Vibrio phage QH, complete genome",33,33
+VPR_017,AUG88381.1,hypothetical protein,major tail subunit,[7337:7814](-),158,MG603697.1,"Vibrio phage Vp_R1, complete genome",33,33
+VP2p14,YP_024421.1,hypothetical protein,major tail subunit,[9328:11554](+),741,NC_005879.1,"Vibrio phage VP2, complete genome",33,33
+phiVC8_p14,YP_009140143.1,tail protein,major tail subunit,[8929:11155](+),741,NC_027118.1,"Vibrio phage phiVC8, complete genome",33,33
+VP5_gp13,YP_024980.1,major tail subunit,major tail subunit,[9327:11559](+),743,NC_005891.1,"Vibrio phage VP5, complete genome",33,33
+H1_0014,AIZ01461.1,hypothetical protein,major tail subunit,[9331:11557](+),741,KM612261.1,"Vibrio phage H1, complete genome",33,33
+phiVC8_p16,YP_009140145.1,hypothetical protein,hypothetical protein,[12950:13349](+),132,NC_027118.1,"Vibrio phage phiVC8, complete genome",35,35
+VP2p16,YP_052984.1,hypothetical protein,hypothetical protein,[13352:13757](+),134,NC_005879.1,"Vibrio phage VP2, complete genome",35,35
+H1_0016,AIZ01463.1,hypothetical protein,hypothetical protein,[13355:13760](+),134,KM612261.1,"Vibrio phage H1, complete genome",35,35
+ACQ41_gp16,YP_009153042.1,hypothetical protein,hypothetical protein,[13356:13755](+),132,NC_027397.1,"Vibrio phage QH, complete genome",35,35
+VP5_gp15,YP_053017.1,hypothetical protein,hypothetical protein,[13354:13753](+),132,NC_005891.1,"Vibrio phage VP5, complete genome",35,35
+CHOED_06,YP_009021672.1,dimodular nonribosomal peptide synthetase,lysozyme,[4293:5853](+),519,NC_023863.2,"Vibrio phage CHOED, complete genome",36,36
+VPR_058,AUG88422.1,hypothetical protein,lysozyme,[23756:23996](-),79,MG603697.1,"Vibrio phage Vp_R1, complete genome",36,36
+MS_050,YP_008239706.1,hypothetical protein,lysozyme,[40489:41053](-),187,NC_021776.1,"Vibrio phage vpms1, complete genome",36,36
+ViPhICP3_gp32,YP_004251275.1,lysozyme,lysozyme,[17262:17697](+),144,NC_015159.1,"Vibrio phage ICP3, complete genome",36,36
+TU18-20_00130,ADX87661.1,lysozyme,lysozyme,[17156:17591](+),144,HQ641344.1,"Vibrio phage ICP3_2007_A, complete genome",36,36
+TU18-RWS_00130,ADX87518.1,lysozyme,lysozyme,[17139:17574](+),144,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",36,36
+VVP4_p15,YP_249586.1,lysozyme,lysozyme,[17105:17540](+),144,NC_007149.1,"Vibriophage VP4, complete genome",36,36
+ACQ41_gp20,YP_009153046.1,tail fiber,tail fiber,[19361:20435](+),357,NC_027397.1,"Vibrio phage QH, complete genome",37,37
+vBVspPpVa5_0064,APC46117.1,hypothetical protein,tail fiber,[60149:60335](-),61,KX889068.2,"Vibrio phage pVa5, complete genome",37,37
+VP2p20,YP_024424.1,tail fiber,tail fiber,[19363:20437](+),357,NC_005879.1,"Vibrio phage VP2, complete genome",37,37
+phiVC8_p20,YP_009140149.1,tail fiber,tail fiber,[18955:19984](+),342,NC_027118.1,"Vibrio phage phiVC8, complete genome",37,37
+H3_0020,AIZ01563.1,tail fiber,tail fiber,[19366:20440](+),357,KM612263.1,"Vibrio phage H3, complete genome",37,37
+H1_0020,AIZ01467.1,tail fiber,tail fiber,[19366:20440](+),357,KM612261.1,"Vibrio phage H1, complete genome",37,37
+ACQ42_gp20,YP_009152771.1,hypothetical protein,tail fiber,[19366:20440](+),357,NC_027393.1,"Vibrio phage J2, complete genome",37,37
+VP5_gp19,YP_053020.1,hypothetical protein,tail fiber,[19359:20433](+),357,NC_005891.1,"Vibrio phage VP5, complete genome",37,37
+ACQ41_gp36,YP_009153062.1,hypothetical protein,hypothetical protein,[33900:34311](-),136,NC_027397.1,"Vibrio phage QH, complete genome",38,38
+H1_0037,AIZ01484.1,hypothetical protein,hypothetical protein,[34027:34438](-),136,KM612261.1,"Vibrio phage H1, complete genome",38,38
+VP2p35,YP_052994.1,hypothetical protein,hypothetical protein,[34035:34446](-),136,NC_005879.1,"Vibrio phage VP2, complete genome",38,38
+VP5_gp36,YP_053030.1,hypothetical protein,hypothetical protein,[33984:34395](-),136,NC_005891.1,"Vibrio phage VP5, complete genome",38,38
+H3_0037,AIZ01580.1,hypothetical protein,hypothetical protein,[34027:34438](-),136,KM612263.1,"Vibrio phage H3, complete genome",38,38
+phiVC8_p38,YP_009140167.1,hypothetical protein,hypothetical protein,[33841:34252](-),136,NC_027118.1,"Vibrio phage phiVC8, complete genome",38,38
+VPP93_gp19,YP_002875643.1,hypothetical protein,hypothetical protein,[13686:14316](+),209,NC_012662.1,"Vibrio phage VP93, complete genome",39,39
+MS_017,YP_008239673.1,tail component,hypothetical protein,[10680:10821](+),46,NC_021776.1,"Vibrio phage vpms1, complete genome",39,39
+ICP22011A_0064,AII27108.1,hypothetical protein,hypothetical protein,[46236:46575](+),112,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",39,39
+vBVspPpVa5_0037,APC46061.1,phage DNA binding protein,hypothetical protein,[46132:46555](-),140,KX889068.2,"Vibrio phage pVa5, complete genome",39,39
+VPR_062,AUG88426.1,hypothetical protein,hypothetical protein,[24567:24768](-),66,MG603697.1,"Vibrio phage Vp_R1, complete genome",39,39
+VPMG_00099,YP_007676589.1,hypothetical protein,hypothetical protein,[67009:67438](-),142,NC_020868.1,Vibrio phage VBP32 genomic sequence,39,39
+ACQ41_gp21,YP_009153047.1,outer capsid protein,outer capsid protein,[20436:21819](+),460,NC_027397.1,"Vibrio phage QH, complete genome",41,41
+H1_0021,AIZ01468.1,outer capsid protein,outer capsid protein,[20441:21824](+),460,KM612261.1,"Vibrio phage H1, complete genome",41,41
+ACQ42_gp21,YP_009152772.1,outer capsid protein,outer capsid protein,[20441:21824](+),460,NC_027393.1,"Vibrio phage J2, complete genome",41,41
+VP5_gp20,YP_053021.1,hypothetical protein,outer capsid protein,[20434:21769](+),444,NC_005891.1,"Vibrio phage VP5, complete genome",41,41
+CJY_0021,AIZ01420.1,outer capsid protein,outer capsid protein,[20441:21824](+),460,KM612260.1,"Vibrio phage CJY, complete genome",41,41
+VP2p21,YP_024425.1,outer capsid protein,outer capsid protein,[20438:21821](+),460,NC_005879.1,"Vibrio phage VP2, complete genome",41,41
+phiVC8_p21,YP_009140150.1,outer capsid protein,outer capsid protein,[20008:21322](+),437,NC_027118.1,"Vibrio phage phiVC8, complete genome",41,41
+QD07_11,APU00148.1,hypothetical protein,Putative S-adenosyl-L-methionine hydrolase,[10301:10709](+),135,KY290756.1,"Vibrio phage Vp670, complete genome",42,42
+VVP4_p01,YP_418235.1,Putative S-adenosyl-L-methionine hydrolase,Putative S-adenosyl-L-methionine hydrolase,[537:969](+),143,NC_007149.1,"Vibriophage VP4, complete genome",42,42
+TU18-RWS_00005,ADX87495.1,putative S-adenosyl-L-methionine hydrolase,Putative S-adenosyl-L-methionine hydrolase,[525:957](+),143,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",42,42
+ASU01134.1,ASU01134.1,putative S-adenosyl-L-methionine hydrolase,Putative S-adenosyl-L-methionine hydrolase,[5481:5913](+),143,MF574151.1,"Vibrio phage JSF25, complete genome",42,42
+CHOED_084,YP_009021750.1,s-adenosyl-l-methionine hydrolase,Putative S-adenosyl-L-methionine hydrolase,[53150:53558](-),135,NC_023863.2,"Vibrio phage CHOED, complete genome",42,42
+VpV262p06,NP_640267.1,hypothetical protein,Putative S-adenosyl-L-methionine hydrolase,[2565:2928](+),120,NC_003907.2,"Vibrio phage VpV262, complete genome",42,42
+ViPhICP3_gp01,YP_004251244.1,S-adenosyl-L-methionine hydrolase,Putative S-adenosyl-L-methionine hydrolase,[514:946](+),143,NC_015159.1,"Vibrio phage ICP3, complete genome",42,42
+AHC94046.1,AHC94046.1,hypothetical protein,Putative S-adenosyl-L-methionine hydrolase,[506:941](+),144,KF800937.1,"Vibrio phage AS51, complete genome",42,42
+VN4_01,YP_003347901.1,putative S-adenosyl-L-methionine hydrolase,Putative S-adenosyl-L-methionine hydrolase,[508:940](+),143,NC_013651.1,"Vibrio phage N4, complete genome",42,42
+RJ80_gp02,YP_009110714.1,hypothetical protein,Putative S-adenosyl-L-methionine hydrolase,[506:941](+),144,NC_025822.1,"Vibrio phage phi-A318, complete genome",42,42
+VpV262p11,NP_640272.1,hypothetical protein,Putative S-adenosyl-L-methionine hydrolase,[5222:5540](+),105,NC_003907.2,"Vibrio phage VpV262, complete genome",42,42
+PV_025,AHN84676.1,S-adenosyl-L-methionine hydrolase,Putative S-adenosyl-L-methionine hydrolase,[26706:27114](+),135,KJ502657.1,"Vibrio phage Vc1, complete genome",42,42
+VP3_0044,AFH14444.1,tail fiber protein,tail fiber protein,[33313:35575](+),753,JQ780163.1,"Vibrio phage VP3, complete genome",44,44
+ASU01127.1,ASU01127.1,tail fibers protein,tail fiber protein,[143:1592](+),482,MF574151.1,"Vibrio phage JSF25, complete genome",44,44
+VVP4_p28,YP_249596.1,Tail fiber protein,tail fiber protein,[33315:35598](+),760,NC_007149.1,"Vibriophage VP4, complete genome",44,44
+VN4_40,YP_003347940.1,tail fiber protein,tail fiber protein,[32889:34674](+),594,NC_013651.1,"Vibrio phage N4, complete genome",44,44
+ViPhICP3_gp47,YP_004251290.1,tail fiber protein,tail fiber protein,[33496:35236](+),579,NC_015159.1,"Vibrio phage ICP3, complete genome",44,44
+TU18-RWS_00205,ADX87533.1,tail fiber protein,tail fiber protein,[33376:35116](+),579,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",44,44
+VPR_123,AUG88487.1,hypothetical protein,tail fiber protein,[84189:84909](+),239,MG603697.1,"Vibrio phage Vp_R1, complete genome",44,44
+ASU01175.1,ASU01175.1,tail fibers protein,tail fiber protein,[38295:38520](+),74,MF574151.1,"Vibrio phage JSF25, complete genome",44,44
+ACQ41_gp39,YP_009153065.1,hypothetical protein,hypothetical protein,[35555:36041](-),161,NC_027397.1,"Vibrio phage QH, complete genome",45,45
+H1_0040,AIZ01487.1,hypothetical protein,hypothetical protein,[35676:36162](-),161,KM612261.1,"Vibrio phage H1, complete genome",45,45
+phiVC8_p41,YP_009140170.1,hypothetical protein,hypothetical protein,[35489:35975](-),161,NC_027118.1,"Vibrio phage phiVC8, complete genome",45,45
+CHOED_011,YP_009021677.1,hypothetical protein,hypothetical protein,[10126:10879](+),250,NC_023863.2,"Vibrio phage CHOED, complete genome",45,45
+VP5_gp41,YP_053035.1,hypothetical protein,hypothetical protein,[35881:36316](-),144,NC_005891.1,"Vibrio phage VP5, complete genome",45,45
+H1_0025,AIZ01472.1,hypothetical protein,hypothetical protein,[22827:23340](-),170,KM612261.1,"Vibrio phage H1, complete genome",46,46
+VP5_gp24,YP_024983.1,hypothetical protein,hypothetical protein,[22772:23351](-),192,NC_005891.1,"Vibrio phage VP5, complete genome",46,46
+phiVC8_p25,YP_009140154.1,metal dependent phosphohydrolase,hypothetical protein,[22304:22817](-),170,NC_027118.1,"Vibrio phage phiVC8, complete genome",46,46
+VP5_gp23,YP_053023.1,hypothetical protein,hypothetical protein,[22649:22757](-),35,NC_005891.1,"Vibrio phage VP5, complete genome",46,46
+ACQ41_gp24,YP_009153050.1,hypothetical protein,hypothetical protein,[22671:23184](-),170,NC_027397.1,"Vibrio phage QH, complete genome",46,46
+CJY_0025,AIZ01424.1,hypothetical protein,hypothetical protein,[22827:23340](-),170,KM612260.1,"Vibrio phage CJY, complete genome",46,46
+VP2p25,YP_024427.1,hydrolase,hypothetical protein,[23018:23402](-),127,NC_005879.1,"Vibrio phage VP2, complete genome",46,46
+ACQ41_gp35,YP_009153061.1,hypothetical protein,hypothetical protein,[33439:33904](-),154,NC_027397.1,"Vibrio phage QH, complete genome",48,48
+H3_0036,AIZ01579.1,hypothetical protein,hypothetical protein,[33566:34031](-),154,KM612263.1,"Vibrio phage H3, complete genome",48,48
+VP2p34,YP_052993.1,hypothetical protein,hypothetical protein,[33574:34039](-),154,NC_005879.1,"Vibrio phage VP2, complete genome",48,48
+phiVC8_p37,YP_009140166.1,hypothetical protein,hypothetical protein,[33380:33845](-),154,NC_027118.1,"Vibrio phage phiVC8, complete genome",48,48
+VP5_gp35,YP_053029.1,hypothetical protein,hypothetical protein,[33523:33988](-),154,NC_005891.1,"Vibrio phage VP5, complete genome",48,48
+H1_0036,AIZ01483.1,hypothetical protein,hypothetical protein,[33566:34031](-),154,KM612261.1,"Vibrio phage H1, complete genome",48,48
+I904_gp27,YP_007518369.1,exonuclease,hypothetical protein,[28463:29087](-),207,NC_020488.1,"Vibrio phage VvAW1, complete genome",49,49
+AVV30_gp064,YP_009198582.1,hypothetical protein,hypothetical protein,[28810:29419](+),202,NC_028799.1,"Vibrio phage phi 1, complete genome",49,49
+pVco5_098,ARM71086.1,hypothetical protein,hypothetical protein,[40803:41430](+),208,KY612839.1,"Vibrio phage pVco-5, complete genome",49,49
+APD18156.1,APD18156.1,thermosome-like protein,hypothetical protein,[29717:31901](-),727,KY065149.1,"Vibrio phage JSF7, complete genome",49,49
+VPR_033,AUG88397.1,hypothetical protein,hypothetical protein,[12577:12973](-),131,MG603697.1,"Vibrio phage Vp_R1, complete genome",49,49
+M612_gp60,YP_008126806.1,hypothetical protein,hypothetical protein,[28580:29189](+),202,NC_021540.1,"Vibrio phage JA-1, complete genome",49,49
+TU12-16_00165,ADX87787.1,hypothetical protein,hypothetical protein,[30206:30800](+),197,HQ641346.1,"Vibrio phage ICP2_2006_A, complete genome",49,crossmatch
+ICP22011A_0036,AII27080.1,hypothetical protein,hypothetical protein,[30197:30791](+),197,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",49,crossmatch
+ViPhICP2p36,YP_004251207.1,hypothetical protein,hypothetical protein,[31054:31648](+),197,NC_015158.1,"Vibrio phage ICP2, complete genome",49,crossmatch
+LD36_gp36,YP_009056248.1,hypothetical protein,hypothetical protein,[31379:31973](+),197,NC_024791.1,"Vibrio phage ICP2_2013_A_Haiti, complete genome",49,crossmatch
+vBVspPpVa5_0068,APC46024.1,hypothetical protein,hypothetical protein,[61929:63909](-),659,KX889068.2,"Vibrio phage pVa5, complete genome",50,50
+AHC94063.1,AHC94063.1,hypothetical protein,hypothetical protein,[18289:18976](+),228,KF800937.1,"Vibrio phage AS51, complete genome",50,50
+VPP93_gp24,YP_002875648.1,hypothetical protein,hypothetical protein,[16642:17227](+),194,NC_012662.1,"Vibrio phage VP93, complete genome",50,50
+QD07_37,APU00174.1,phosphomevalonate kinase,hypothetical protein,[28864:29410](+),181,KY290756.1,"Vibrio phage Vp670, complete genome",50,50
+PV_044,AHN84695.1,hypothetical protein,hypothetical protein,[43638:44196](+),185,KJ502657.1,"Vibrio phage Vc1, complete genome",50,50
+VPP93_gp6,YP_002875630.1,hypothetical protein,hypothetical protein,[2451:4593](+),713,NC_012662.1,"Vibrio phage VP93, complete genome",50,50
+VPR_143,AUG88507.1,hypothetical protein,hypothetical protein,[107368:107845](-),158,MG603697.1,"Vibrio phage Vp_R1, complete genome",50,50
+TU12-16_00135,ADX87781.1,hypothetical protein,hypothetical protein,[27800:27947](+),48,HQ641346.1,"Vibrio phage ICP2_2006_A, complete genome",52,52
+ICP22011A_0029,AII27073.1,hypothetical protein,hypothetical protein,[27934:28165](+),76,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",52,52
+vBVspPpVa5_0080,APC46118.1,hypothetical protein,hypothetical protein,[69339:69522](-),60,KX889068.2,"Vibrio phage pVa5, complete genome",52,52
+LD36_gp28,YP_009056240.1,hypothetical protein,hypothetical protein,[28689:29097](+),135,NC_024791.1,"Vibrio phage ICP2_2013_A_Haiti, complete genome",52,52
+VPR_041,AUG88405.1,hypothetical protein,hypothetical protein,[16950:17154](-),67,MG603697.1,"Vibrio phage Vp_R1, complete genome",52,52
+VPP93_gp7,YP_002875631.1,putative peptidase,hypothetical protein,[4618:5521](+),300,NC_012662.1,"Vibrio phage VP93, complete genome",52,52
+vBVspPpVa5_0055,APC46056.1,HNH homing endonuclease protein,HNH homing endonuclease protein,[55132:55615](-),160,KX889068.2,"Vibrio phage pVa5, complete genome",54,54
+vBVspPpVa5_0073,APC46057.1,HNH homing endonuclease protein,HNH homing endonuclease protein,[65989:66472](-),160,KX889068.2,"Vibrio phage pVa5, complete genome",54,54
+TU12-16_00230,ADX87800.1,hypothetical protein,HNH homing endonuclease protein,[40464:40974](+),169,HQ641346.1,"Vibrio phage ICP2_2006_A, complete genome",54,54
+VPMG_00018,YP_007676508.1,hypothetical protein,HNH homing endonuclease protein,[8334:8811](-),158,NC_020868.1,Vibrio phage VBP32 genomic sequence,54,54
+vBVspPpVa5_0071,APC46046.1,HNH homing endonuclease protein,HNH homing endonuclease protein,[64565:65303](-),245,KX889068.2,"Vibrio phage pVa5, complete genome",54,54
+I904_gp25,YP_007518367.1,hypothetical protein,HNH homing endonuclease protein,[27713:28298](-),194,NC_020488.1,"Vibrio phage VvAW1, complete genome",54,54
+VP3_0010,AFH14410.1,putative RNA polymerase inhibitor,HNH homing endonuclease protein,[6964:7240](-),91,JQ780163.1,"Vibrio phage VP3, complete genome",54,54
+ICP22011A_0051,AII27095.1,hypothetical protein,HNH homing endonuclease protein,[40575:40980](+),134,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",54,54
+ViPhICP2p51,YP_004251222.1,hypothetical protein,HNH homing endonuclease protein,[41370:41820](+),149,NC_015158.1,"Vibrio phage ICP2, complete genome",54,54
+APD18034.1,APD18034.1,hypothetical protein,hypothetical protein,[4880:5558](+),225,KY065148.1,"Vibrio phage JSF3, complete genome",55,55
+pVco5_001,ARM70989.1,hypothetical protein,hypothetical protein,[9:696](-),228,KY612839.1,"Vibrio phage pVco-5, complete genome",55,55
+vBVspPpVa5_0001,APC46050.1,N4 gp69 like protein,hypothetical protein,[85:781](+),231,KX889068.2,"Vibrio phage pVa5, complete genome",55,55
+M612_gp35,YP_008126831.1,hypothetical protein,hypothetical protein,[63072:63750](-),225,NC_021540.1,"Vibrio phage JA-1, complete genome",55,55
+VPR_104,AUG88468.1,hypothetical protein,hypothetical protein,[62426:62807](+),126,MG603697.1,"Vibrio phage Vp_R1, complete genome",55,55
+VpV262p45,NP_640306.1,hypothetical protein,hypothetical protein,[22181:23057](-),291,NC_003907.2,"Vibrio phage VpV262, complete genome",55,55
+VpV262p01,NP_640262.1,hypothetical protein,hypothetical protein,[1033:1558](+),174,NC_003907.2,"Vibrio phage VpV262, complete genome",55,55
+AVV30_gp089,YP_009198607.1,hypothetical protein,hypothetical protein,[61261:61939](-),225,NC_028799.1,"Vibrio phage phi 1, complete genome",55,55
+VPMG_00062,YP_007676552.1,hypothetical protein,hypothetical protein,[22994:23696](+),233,NC_020868.1,Vibrio phage VBP32 genomic sequence,55,55
+VP3_008,AFH14408.1,hypothetical protein,hypothetical protein,[5942:6269](+),108,JQ780163.1,"Vibrio phage VP3, complete genome",56,56
+VPR_096,AUG88460.1,hypothetical protein,hypothetical protein,[53949:54255](-),101,MG603697.1,"Vibrio phage Vp_R1, complete genome",56,56
+VN4_05,YP_003347905.1,hypothetical protein,hypothetical protein,[5308:5635](+),108,NC_013651.1,"Vibrio phage N4, complete genome",56,56
+ViPhICP3_gp09,YP_004251252.1,hypothetical protein,hypothetical protein,[5919:6246](+),108,NC_015159.1,"Vibrio phage ICP3, complete genome",56,56
+TU18-21_00030,ADX87593.1,hypothetical protein,hypothetical protein,[5891:6218](+),108,HQ641343.1,"Vibrio phage ICP3_2008_A, complete genome",56,56
+ASU01139.1,ASU01139.1,hypothetical protein,hypothetical protein,[10857:11184](+),108,MF574151.1,"Vibrio phage JSF25, complete genome",56,56
+VP3_003,AFH14403.1,hypothetical protein,hypothetical protein,[978:1167](+),62,JQ780163.1,"Vibrio phage VP3, complete genome",56,56
+VPR_075,AUG88439.1,hypothetical protein,hypothetical protein,[34387:34621](-),77,MG603697.1,"Vibrio phage Vp_R1, complete genome",56,56
+MS_021,YP_008239677.1,portal protein,major coat protein,[13601:15449](+),615,NC_021776.1,"Vibrio phage vpms1, complete genome",57,57
+M612_gp44,YP_008126822.1,N4-gp56 family major capsid protein,major coat protein,[51013:52327](-),437,NC_021540.1,"Vibrio phage JA-1, complete genome",57,57
+pVco5_117,ARM71106.1,major capsid protein,major coat protein,[63296:64613](-),438,KY612839.1,"Vibrio phage pVco-5, complete genome",57,57
+vBVspPpVa5_0019,APC46031.1,major coat protein,major coat protein,[17804:19253](+),482,KX889068.2,"Vibrio phage pVa5, complete genome",57,57
+vBVspPpVa5_0086,APC46093.1,hypothetical protein,major coat protein,[70639:70882](-),80,KX889068.2,"Vibrio phage pVa5, complete genome",57,57
+AVV30_gp080,YP_009198598.1,major capsid protein,major coat protein,[50946:52260](-),437,NC_028799.1,"Vibrio phage phi 1, complete genome",57,57
+VPMG_00078,YP_007676568.1,major coat protein,major coat protein,[39395:40844](+),482,NC_020868.1,Vibrio phage VBP32 genomic sequence,57,57
+H1_0038,AIZ01485.1,hypothetical protein,hypothetical protein,[34439:34760](-),106,KM612261.1,"Vibrio phage H1, complete genome",59,59
+VP5_gp37,YP_053031.1,hypothetical protein,hypothetical protein,[34396:34723](-),108,NC_005891.1,"Vibrio phage VP5, complete genome",59,59
+phiVC8_p39,YP_009140168.1,hypothetical protein,hypothetical protein,[34253:34613](-),119,NC_027118.1,"Vibrio phage phiVC8, complete genome",59,59
+VP2p36,YP_052995.1,hypothetical protein,hypothetical protein,[34447:34954](-),168,NC_005879.1,"Vibrio phage VP2, complete genome",59,59
+ACQ41_gp37,YP_009153063.1,hypothetical protein,hypothetical protein,[34312:34639](-),108,NC_027397.1,"Vibrio phage QH, complete genome",59,59
+VP5_gp17,YP_053019.1,hypothetical protein,hypothetical protein,[15833:17006](+),390,NC_005891.1,"Vibrio phage VP5, complete genome",62,62
+H1_0018,AIZ01465.1,hypothetical protein,hypothetical protein,[15840:17013](+),390,KM612261.1,"Vibrio phage H1, complete genome",62,62
+phiVC8_p18,YP_009140147.1,hypothetical protein,hypothetical protein,[15429:16602](+),390,NC_027118.1,"Vibrio phage phiVC8, complete genome",62,62
+VP2p18,YP_052986.1,hypothetical protein,hypothetical protein,[15837:17010](+),390,NC_005879.1,"Vibrio phage VP2, complete genome",62,62
+ACQ41_gp18,YP_009153044.1,hypothetical protein,hypothetical protein,[15835:17008](+),390,NC_027397.1,"Vibrio phage QH, complete genome",62,62
+VVP4_p14,YP_249585.1,endonuclease I,endonuclease I,[16653:17106](+),150,NC_007149.1,"Vibriophage VP4, complete genome",65,65
+ICP22011A_0061,AII27105.1,putative endonuclease,endonuclease I,[44874:45312](+),145,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",65,65
+TU18-RWS_00125,ADX87517.1,endonuclease I,endonuclease I,[16687:17140](+),150,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",65,65
+APD18067.1,APD18067.1,hypothetical protein,endonuclease I,[45322:45505](-),60,KY065148.1,"Vibrio phage JSF3, complete genome",65,65
+TU12-16_00275,ADX87808.1,endonuclease I,endonuclease I,[44829:45306](+),158,HQ641346.1,"Vibrio phage ICP2_2006_A, complete genome",65,65
+CHOED_070,YP_009021736.1,hypothetical protein,endonuclease I,[43999:44218](-),72,NC_023863.2,"Vibrio phage CHOED, complete genome",65,65
+VN4_25,YP_003347925.1,endonuclease,endonuclease I,[16183:16636](+),150,NC_013651.1,"Vibrio phage N4, complete genome",65,65
+ViPhICP2p62,YP_004251233.1,putative endonuclease,endonuclease I,[45713:46151](+),145,NC_015158.1,"Vibrio phage ICP2, complete genome",65,65
+ASU01159.1,ASU01159.1,endonuclease,endonuclease I,[21610:22063](+),150,MF574151.1,"Vibrio phage JSF25, complete genome",65,65
+VP5_gp30,YP_053025.1,hypothetical protein,hypothetical protein,[29351:30251](-),299,NC_005891.1,"Vibrio phage VP5, complete genome",67,67
+ACQ41_gp30,YP_009153056.1,hypothetical protein,hypothetical protein,[29250:30060](-),269,NC_027397.1,"Vibrio phage QH, complete genome",67,67
+VP2p30,YP_052990.1,hypothetical protein,hypothetical protein,[29402:30212](-),269,NC_005879.1,"Vibrio phage VP2, complete genome",67,67
+H3_0031,AIZ01574.1,hypothetical protein,hypothetical protein,[29406:30216](-),269,KM612263.1,"Vibrio phage H3, complete genome",67,67
+CJY_0031,AIZ01430.1,hypothetical protein,hypothetical protein,[29406:30216](-),269,KM612260.1,"Vibrio phage CJY, complete genome",67,67
+ACQ42_gp31,YP_009152782.1,hypothetical protein,hypothetical protein,[29406:30216](-),269,NC_027393.1,"Vibrio phage J2, complete genome",67,67
+H1_0031,AIZ01478.1,hypothetical protein,hypothetical protein,[29406:30216](-),269,KM612261.1,"Vibrio phage H1, complete genome",67,67
+phiVC8_p32,YP_009140161.1,hypothetical protein,hypothetical protein,[29252:30068](-),271,NC_027118.1,"Vibrio phage phiVC8, complete genome",67,67
+VP2p10,YP_052981.1,hypothetical protein,hypothetical protein,[7324:8173](+),282,NC_005879.1,"Vibrio phage VP2, complete genome",69,69
+phiVC8_p10,YP_009140139.1,hypothetical protein,hypothetical protein,[6925:7774](+),282,NC_027118.1,"Vibrio phage phiVC8, complete genome",69,69
+ACQ41_gp10,YP_009153036.1,hypothetical protein,hypothetical protein,[7325:8174](+),282,NC_027397.1,"Vibrio phage QH, complete genome",69,69
+VP5_gp09,YP_053013.1,hypothetical protein,hypothetical protein,[7323:8172](+),282,NC_005891.1,"Vibrio phage VP5, complete genome",69,69
+H1_0010,AIZ01457.1,hypothetical protein,hypothetical protein,[7327:8176](+),282,KM612261.1,"Vibrio phage H1, complete genome",69,69
+VCO139_0061,AGI61888.1,hypothetical protein,hypothetical protein,[52032:53124](-),363,KC438283.1,"Vibrio phage VCO139, complete genome",74,74
+VPMG_00077,YP_007676567.1,hypothetical protein,hypothetical protein,[38233:39379](+),381,NC_020868.1,Vibrio phage VBP32 genomic sequence,74,74
+vBVspPpVa5_0018,APC46034.1,tape measure protein,hypothetical protein,[16677:17793](+),371,KX889068.2,"Vibrio phage pVa5, complete genome",74,74
+VPR_129,AUG88493.1,hypothetical protein,hypothetical protein,[91033:91453](+),139,MG603697.1,"Vibrio phage Vp_R1, complete genome",74,74
+APD18042.1,APD18042.1,hypothetical protein,hypothetical protein,[15199:16291](+),363,KY065148.1,"Vibrio phage JSF3, complete genome",74,74
+AVV30_gp081,YP_009198599.1,hypothetical protein,hypothetical protein,[52272:53367](-),364,NC_028799.1,"Vibrio phage phi 1, complete genome",74,74
+M612_gp43,YP_008126823.1,hypothetical protein,hypothetical protein,[52339:53431](-),363,NC_021540.1,"Vibrio phage JA-1, complete genome",74,74
+pVco5_118,ARM71107.1,hypothetical protein,hypothetical protein,[64632:65760](-),375,KY612839.1,"Vibrio phage pVco-5, complete genome",74,74
+VPR_110,AUG88474.1,hypothetical protein,hypothetical protein,[68593:69694](+),366,MG603697.1,"Vibrio phage Vp_R1, complete genome",74,nomrg
+VPR_101,AUG88465.1,hypothetical protein,AAA domain protein,[58272:58524](-),83,MG603697.1,"Vibrio phage Vp_R1, complete genome",76,76
+VPMG_00089,YP_007676579.1,hypothetical protein,AAA domain protein,[57762:58491](-),242,NC_020868.1,Vibrio phage VBP32 genomic sequence,76,76
+AVV30_gp069,YP_009198587.1,AAA domain protein,AAA domain protein,[33398:34136](+),245,NC_028799.1,"Vibrio phage phi 1, complete genome",76,76
+M612_gp53,YP_008126813.1,AAA domain protein,AAA domain protein,[34215:34953](+),245,NC_021540.1,"Vibrio phage JA-1, complete genome",76,76
+vBVspPpVa5_0029,APC46048.1,N4 gp44 protein,AAA domain protein,[36116:36842](-),241,KX889068.2,"Vibrio phage pVa5, complete genome",76,76
+pVco5_103,ARM71091.1,AAA domain protein,AAA domain protein,[45384:46119](+),244,KY612839.1,"Vibrio phage pVco-5, complete genome",76,76
+VPNG_00058,YP_007674153.1,hypothetical protein,hypothetical protein,[49400:49700](-),99,NC_020848.1,Vibrio phage VBP47 genomic sequence,78,78
+VPR_026,AUG88390.1,hypothetical protein,hypothetical protein,[10446:10719](-),90,MG603697.1,"Vibrio phage Vp_R1, complete genome",78,78
+VPMG_00071,YP_007676561.1,hypothetical protein,hypothetical protein,[33725:34025](+),99,NC_020868.1,Vibrio phage VBP32 genomic sequence,78,78
+LD36_gp05,YP_009056217.1,hypothetical protein,hypothetical protein,[1506:3468](-),653,NC_024791.1,"Vibrio phage ICP2_2013_A_Haiti, complete genome",78,78
+CHOED_018,YP_009021684.1,hypothetical protein,hypothetical protein,[18578:18851](+),90,NC_023863.2,"Vibrio phage CHOED, complete genome",78,78
+ICP22011A_005,AII27049.1,hypothetical protein,hypothetical protein,[1418:3401](-),660,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",78,78
+VpV262p46,NP_640307.1,hypothetical protein,hypothetical protein,[22992:24828](-),611,NC_003907.2,"Vibrio phage VpV262, complete genome",78,78
+TU12-16_00020,ADX87758.1,hypothetical protein,hypothetical protein,[1420:3376](-),651,HQ641346.1,"Vibrio phage ICP2_2006_A, complete genome",78,78
+APD18037.1,APD18037.1,PE_PGRS family protein,putative phage minor structural protein,[8853:11280](+),808,KY065148.1,"Vibrio phage JSF3, complete genome",79,79
+pVco5_122,ARM71111.1,hypothetical protein,putative phage minor structural protein,[68628:71901](-),1090,KY612839.1,"Vibrio phage pVco-5, complete genome",79,79
+vBVspPpVa5_0005,APC46021.1,hypothetical protein,putative phage minor structural protein,[3013:5329](+),771,KX889068.2,"Vibrio phage pVa5, complete genome",79,79
+M612_gp38,YP_008126828.1,putative phage minor structural protein,putative phage minor structural protein,[57350:59777](-),808,NC_021540.1,"Vibrio phage JA-1, complete genome",79,79
+AVV30_gp086,YP_009198604.1,hypothetical protein,putative phage minor structural protein,[57312:58980](-),555,NC_028799.1,"Vibrio phage phi 1, complete genome",79,79
+VCO139_0066,AGK85680.1,putative phage minor structural protein,putative phage minor structural protein,[57043:59470](-),808,KC438283.1,"Vibrio phage VCO139, complete genome",79,79
+AVV30_gp053,YP_009198571.1,hypothetical protein,hypothetical protein,[19958:20843](+),294,NC_028799.1,"Vibrio phage phi 1, complete genome",81,81
+pVco5_087,ARM71075.1,hypothetical protein,hypothetical protein,[32520:32913](+),130,KY612839.1,"Vibrio phage pVco-5, complete genome",81,81
+VPMG_00006,YP_007676496.1,ATPase,hypothetical protein,[2638:3655](-),338,NC_020868.1,Vibrio phage VBP32 genomic sequence,81,81
+vBVspPpVa5_0065,APC46035.1,MoxR-like ATPase protein,hypothetical protein,[60366:61386](-),339,KX889068.2,"Vibrio phage pVa5, complete genome",81,81
+M612_gp70,YP_008126796.1,hypothetical protein,hypothetical protein,[19547:19868](+),106,NC_021540.1,"Vibrio phage JA-1, complete genome",81,81
+VpV262p43,NP_640304.1,hypothetical protein,hypothetical protein,[21641:22016](+),124,NC_003907.2,"Vibrio phage VpV262, complete genome",81,81
+M612_gp68,YP_008126798.1,hypothetical protein,hypothetical protein,[20560:21292](+),243,NC_021540.1,"Vibrio phage JA-1, complete genome",81,81
+pVco5_089,ARM71077.1,hypothetical protein,hypothetical protein,[33790:34525](+),244,KY612839.1,"Vibrio phage pVco-5, complete genome",81,81
+APD18072.1,APD18072.1,hypothetical protein,hypothetical protein,[47339:48023](-),227,KY065148.1,"Vibrio phage JSF3, complete genome",81,81
+AVV30_gp051,YP_009198569.1,hypothetical protein,hypothetical protein,[18826:19027](+),66,NC_028799.1,"Vibrio phage phi 1, complete genome",81,<5fil
+VPR_027,AUG88391.1,hypothetical protein,hypothetical protein,[10767:10998](-),76,MG603697.1,"Vibrio phage Vp_R1, complete genome",82,82
+VpV262p52,NP_640313.1,hypothetical protein,hypothetical protein,[31594:31891](-),98,NC_003907.2,"Vibrio phage VpV262, complete genome",82,82
+LD36_gp09,YP_009056221.1,hypothetical protein,hypothetical protein,[8660:10865](-),734,NC_024791.1,"Vibrio phage ICP2_2013_A_Haiti, complete genome",82,82
+ICP22011A_009,AII27053.1,hypothetical protein,hypothetical protein,[8571:10776](-),734,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",82,82
+VPR_074,AUG88438.1,hypothetical protein,hypothetical protein,[34070:34265](-),64,MG603697.1,"Vibrio phage Vp_R1, complete genome",82,82
+VpV262p54,NP_640315.1,hypothetical protein,hypothetical protein,[32976:35712](-),911,NC_003907.2,"Vibrio phage VpV262, complete genome",82,82
+VpV262p17,NP_640278.1,DNA helicase,replicative DNA helicase,[7547:8774](+),408,NC_003907.2,"Vibrio phage VpV262, complete genome",84,84
+LD36_gp48,YP_009056260.1,hypothetical protein,replicative DNA helicase,[38362:39619](+),418,NC_024791.1,"Vibrio phage ICP2_2013_A_Haiti, complete genome",84,84
+TU12-16_00220,ADX87798.1,replicative DNA helicase,replicative DNA helicase,[38008:39265](+),418,HQ641346.1,"Vibrio phage ICP2_2006_A, complete genome",84,84
+VPP93_gp11,YP_002875635.1,putative DNA helicase,replicative DNA helicase,[6709:7990](+),426,NC_012662.1,"Vibrio phage VP93, complete genome",84,84
+ICP22011A_0049,AII27093.1,hypothetical protein,replicative DNA helicase,[38014:39271](+),418,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",84,84
+ViPhICP2p49,YP_004251220.1,putative DNA helicase,replicative DNA helicase,[38851:40111](+),419,NC_015158.1,"Vibrio phage ICP2, complete genome",84,84
+VPR_032,AUG88396.1,hypothetical protein,hypothetical protein,[12323:12497](-),57,MG603697.1,"Vibrio phage Vp_R1, complete genome",85,85
+ViPhICP2p46,YP_004251217.1,putative DNA primase,hypothetical protein,[37096:37912](+),271,NC_015158.1,"Vibrio phage ICP2, complete genome",85,85
+VpV262p15,NP_640276.1,DNA primase,hypothetical protein,[6552:7416](+),287,NC_003907.2,"Vibrio phage VpV262, complete genome",85,85
+LD36_gp45,YP_009056257.1,hypothetical protein,hypothetical protein,[36586:37399](+),270,NC_024791.1,"Vibrio phage ICP2_2013_A_Haiti, complete genome",85,85
+MS_027,YP_008239683.1,hypothetical protein,hypothetical protein,[22755:23211](-),151,NC_021776.1,"Vibrio phage vpms1, complete genome",85,85
+ICP22011A_0046,AII27090.1,hypothetical protein,hypothetical protein,[36259:37072](+),270,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",85,85
+APD18129.1,APD18129.1,hypothetical protein,hypothetical protein,[5602:6430](-),275,KY065149.1,"Vibrio phage JSF7, complete genome",85,<5
+M612_gp52,YP_008126814.1,ssDNA binding protein,single-stranded DNA-binding protein,[35014:35737](+),240,NC_021540.1,"Vibrio phage JA-1, complete genome",86,86
+pVco5_104,ARM71092.1,hypothetical protein,single-stranded DNA-binding protein,[46188:46947](+),252,KY612839.1,"Vibrio phage pVco-5, complete genome",86,86
+AVV30_gp070,YP_009198588.1,ssDNA binding protein,single-stranded DNA-binding protein,[34197:34920](+),240,NC_028799.1,"Vibrio phage phi 1, complete genome",86,86
+VPMG_00088,YP_007676578.1,hypothetical protein,single-stranded DNA-binding protein,[56966:57698](-),243,NC_020868.1,Vibrio phage VBP32 genomic sequence,86,86
+MS_012,YP_008239668.1,hypothetical protein,single-stranded DNA-binding protein,[6562:7477](+),304,NC_021776.1,"Vibrio phage vpms1, complete genome",86,86
+vBVspPpVa5_0028,APC46045.1,single-stranded DNA-binding protein,single-stranded DNA-binding protein,[35309:36050](-),246,KX889068.2,"Vibrio phage pVa5, complete genome",86,86
+TU18-RWS_00190,ADX87530.1,internal virion protein B,internal virion protein B,[27065:27656](+),196,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",87,87
+ViPhICP3_gp44,YP_004251287.1,internal virion protein B,internal virion protein B,[27191:27776](+),194,NC_015159.1,"Vibrio phage ICP3, complete genome",87,87
+VP3_0041,AFH14441.1,internal virion protein B,internal virion protein B,[26936:27602](+),221,JQ780163.1,"Vibrio phage VP3, complete genome",87,87
+TU18-20_00190,ADX87673.1,internal virion protein B,internal virion protein B,[27079:27670](+),196,HQ641344.1,"Vibrio phage ICP3_2007_A, complete genome",87,87
+ASU01172.1,ASU01172.1,protein inside capsid B,internal virion protein B,[31990:32575](+),194,MF574151.1,"Vibrio phage JSF25, complete genome",87,87
+RJ80_gp34,YP_009110746.1,hypothetical protein,internal virion protein B,[28322:28928](+),201,NC_025822.1,"Vibrio phage phi-A318, complete genome",87,87
+VPR_065,AUG88429.1,hypothetical protein,internal virion protein B,[27652:27799](-),48,MG603697.1,"Vibrio phage Vp_R1, complete genome",87,87
+QD07_48,APU00185.1,hypothetical protein,internal virion protein B,[38611:39217](+),201,KY290756.1,"Vibrio phage Vp670, complete genome",87,87
+VN4_37,YP_003347937.1,internal virion protein B,internal virion protein B,[26578:27169](+),196,NC_013651.1,"Vibrio phage N4, complete genome",87,87
+TU18-21_00195,ADX87626.1,internal virion protein B,internal virion protein B,[27181:27772](+),196,HQ641343.1,"Vibrio phage ICP3_2008_A, complete genome",87,87
+AHC94071.1,AHC94071.1,hypothetical protein,internal virion protein B,[28320:28926](+),201,KF800937.1,"Vibrio phage AS51, complete genome",87,87
+PV_010,AHN84661.1,hypothetical protein,internal virion protein B,[8865:9480](+),204,KJ502657.1,"Vibrio phage Vc1, complete genome",87,<5
+VN4_06,YP_003347906.1,hypothetical protein,hypothetical protein,[5646:6330](+),227,NC_013651.1,"Vibrio phage N4, complete genome",88,88
+ViPhICP3_gp10,YP_004251253.1,hypothetical protein,hypothetical protein,[6257:6941](+),227,NC_015159.1,"Vibrio phage ICP3, complete genome",88,88
+vBVspPpVa5_0092,APC46096.1,hypothetical protein,hypothetical protein,[72686:72926](-),79,KX889068.2,"Vibrio phage pVa5, complete genome",88,88
+TU18-21_00035,ADX87594.1,hypothetical protein,hypothetical protein,[6229:6913](+),227,HQ641343.1,"Vibrio phage ICP3_2008_A, complete genome",88,88
+ASU01140.1,ASU01140.1,hypothetical protein,hypothetical protein,[11195:11879](+),227,MF574151.1,"Vibrio phage JSF25, complete genome",88,88
+VP3_009,AFH14409.1,hypothetical protein,hypothetical protein,[6211:6964](+),250,JQ780163.1,"Vibrio phage VP3, complete genome",88,88
+VpV262p64,NP_640325.1,hypothetical protein,hypothetical protein,[43511:44186](-),224,NC_003907.2,"Vibrio phage VpV262, complete genome",89,89
+M612_gp54,YP_008126812.1,hypothetical protein,hypothetical protein,[33924:34212](+),95,NC_021540.1,"Vibrio phage JA-1, complete genome",89,89
+I904_gp03,YP_007518345.1,hypothetical protein,hypothetical protein,[11838:12525](-),228,NC_020488.1,"Vibrio phage VvAW1, complete genome",89,89
+CHOED_03,YP_009021669.1,hypothetical protein,hypothetical protein,[2388:3249](+),286,NC_023863.2,"Vibrio phage CHOED, complete genome",89,89
+ViPhICP3_gp13,YP_004251256.1,hypothetical protein,hypothetical protein,[7270:7456](+),61,NC_015159.1,"Vibrio phage ICP3, complete genome",89,89
+AVV30_gp068,YP_009198586.1,hypothetical protein,hypothetical protein,[33107:33383](+),91,NC_028799.1,"Vibrio phage phi 1, complete genome",89,89
+pVco5_102,ARM71090.1,hypothetical protein,hypothetical protein,[45096:45381](+),94,KY612839.1,"Vibrio phage pVco-5, complete genome",89,89
+TU18-20_00195,ADX87674.1,internal virion protein C,internal virion protein C,[27701:29915](+),737,HQ641344.1,"Vibrio phage ICP3_2007_A, complete genome",90,90
+VN4_38,YP_003347938.1,internal virion protein C,internal virion protein C,[27200:29414](+),737,NC_013651.1,"Vibrio phage N4, complete genome",90,90
+TU18-RWS_00195,ADX87531.1,internal virion protein C,internal virion protein C,[27687:29901](+),737,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",90,90
+ASU01173.1,ASU01173.1,protein inside capsid C,internal virion protein C,[32642:34820](+),725,MF574151.1,"Vibrio phage JSF25, complete genome",90,90
+TU18-21_00200,ADX87627.1,internal virion protein C,internal virion protein C,[27803:30017](+),737,HQ641343.1,"Vibrio phage ICP3_2008_A, complete genome",90,90
+ViPhICP3_gp45,YP_004251288.1,internal virion protein C,internal virion protein C,[27807:30021](+),737,NC_015159.1,"Vibrio phage ICP3, complete genome",90,90
+VVP4_p23,YP_418244.1,Putative deoxyribonucleoside kinase,putative deoxyribonucleoside kinase,[25883:26516](+),210,NC_007149.1,"Vibriophage VP4, complete genome",94,94
+ASU01170.1,ASU01170.1,putative deoxyribonucleoside kinase,putative deoxyribonucleoside kinase,[30854:31487](+),210,MF574151.1,"Vibrio phage JSF25, complete genome",94,94
+VPR_056,AUG88420.1,hypothetical protein,putative deoxyribonucleoside kinase,[22789:23167](-),125,MG603697.1,"Vibrio phage Vp_R1, complete genome",94,94
+VN4_35,YP_003347935.1,putative deoxyribonucleoside kinase,putative deoxyribonucleoside kinase,[25448:26081](+),210,NC_013651.1,"Vibrio phage N4, complete genome",94,94
+ViPhICP3_gp42,YP_004251285.1,putative deoxyribonucleoside kinase,putative deoxyribonucleoside kinase,[26055:26688](+),210,NC_015159.1,"Vibrio phage ICP3, complete genome",94,94
+AHC94078.1,AHC94078.1,hypothetical protein,cell wall hydrolase,[40744:41134](+),129,KF800937.1,"Vibrio phage AS51, complete genome",99,99
+CHOED_071,YP_009021737.1,cell wall hydrolase,cell wall hydrolase,[45711:46155](-),147,NC_023863.2,"Vibrio phage CHOED, complete genome",99,99
+vBVspPpVa5_0006,APC46121.1,hypothetical protein,cell wall hydrolase,[5325:5505](+),59,KX889068.2,"Vibrio phage pVa5, complete genome",99,99
+PV_021,AHN84672.1,cell wall hydrolase,cell wall hydrolase,[24249:24543](+),97,KJ502657.1,"Vibrio phage Vc1, complete genome",99,99
+QD07_8,APU00145.1,endolysin,cell wall hydrolase,[8495:8885](+),129,KY290756.1,"Vibrio phage Vp670, complete genome",99,99
+APD18145.1,APD18145.1,hypothetical protein,cell wall hydrolase,[15754:16069](-),104,KY065149.1,"Vibrio phage JSF7, complete genome",99,99
+ICP22011A_0024,AII27068.1,hypothetical protein,hypothetical protein,[22158:23301](-),380,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",100,100
+LD36_gp24,YP_009056236.1,hypothetical protein,hypothetical protein,[22245:23835](-),529,NC_024791.1,"Vibrio phage ICP2_2013_A_Haiti, complete genome",100,100
+TU12-16_00115,ADX87777.1,hypothetical protein,hypothetical protein,[22133:23276](-),380,HQ641346.1,"Vibrio phage ICP2_2006_A, complete genome",100,100
+ViPhICP2p24,YP_004251195.1,putative phage tail fiber protein,hypothetical protein,[22160:23780](-),539,NC_015158.1,"Vibrio phage ICP2, complete genome",100,100
+CHOED_09,YP_009021675.1,tail fiber repeat family protein,hypothetical protein,[6387:9024](+),878,NC_023863.2,"Vibrio phage CHOED, complete genome",100,100
+MS_033,YP_008239689.1,nuclease,hypothetical protein,[26061:26907](-),281,NC_021776.1,"Vibrio phage vpms1, complete genome",101,101
+VPMG_00093,YP_007676583.1,hypothetical protein,hypothetical protein,[61780:62767](-),328,NC_020868.1,Vibrio phage VBP32 genomic sequence,101,101
+M612_gp58,YP_008126808.1,hypothetical protein,hypothetical protein,[29687:30701](+),337,NC_021540.1,"Vibrio phage JA-1, complete genome",101,101
+vBVspPpVa5_0032,APC46036.1,N4 gp42 protein,hypothetical protein,[40186:41170](-),327,KX889068.2,"Vibrio phage pVa5, complete genome",101,101
+pVco5_100,ARM71088.1,hypothetical protein,hypothetical protein,[41909:42917](+),335,KY612839.1,"Vibrio phage pVco-5, complete genome",101,101
+AVV30_gp066,YP_009198584.1,hypothetical protein,hypothetical protein,[29917:30931](+),337,NC_028799.1,"Vibrio phage phi 1, complete genome",101,101
+vBVspPpVa5_0050,APC46033.1,metallopeptidase protein domain,metallopeptidase domain protein,[52763:53960](-),398,KX889068.2,"Vibrio phage pVa5, complete genome",102,102
+M612_gp67,YP_008126799.1,metallopeptidase domain protein,metallopeptidase domain protein,[21348:22578](+),409,NC_021540.1,"Vibrio phage JA-1, complete genome",102,102
+pVco5_090,ARM71078.1,hypothetical protein,metallopeptidase domain protein,[34577:35804](+),408,KY612839.1,"Vibrio phage pVco-5, complete genome",102,102
+VPMG_00109,YP_007676599.1,hypothetical protein,metallopeptidase domain protein,[72658:73822](-),387,NC_020868.1,Vibrio phage VBP32 genomic sequence,102,102
+AVV30_gp054,YP_009198572.1,metallopeptidase domain protein,metallopeptidase domain protein,[20899:22126](+),408,NC_028799.1,"Vibrio phage phi 1, complete genome",102,102
+VP3_0032,AFH14432.1,hypothetical protein,host specificity protein A,[18252:18663](+),136,JQ780163.1,"Vibrio phage VP3, complete genome",103,103
+VN4_28,YP_003347928.1,host specificity protein A,host specificity protein A,[17790:18198](+),135,NC_013651.1,"Vibrio phage N4, complete genome",103,103
+ViPhICP3_gp35,YP_004251278.1,hypothetical protein,host specificity protein A,[18416:18824](+),135,NC_015159.1,"Vibrio phage ICP3, complete genome",103,103
+TU18-RWS_00145,ADX87521.1,host specificity protein A,host specificity protein A,[18293:18701](+),135,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",103,103
+VpV262p09,NP_640270.1,hypothetical protein,host specificity protein A,[3526:3736](+),69,NC_003907.2,"Vibrio phage VpV262, complete genome",103,103
+PV_023,AHN84674.1,hypothetical protein,hypothetical protein,[24895:25123](+),75,KJ502657.1,"Vibrio phage Vc1, complete genome",106,106
+CHOED_039,YP_009021705.1,hypothetical protein,hypothetical protein,[28343:28547](-),67,NC_023863.2,"Vibrio phage CHOED, complete genome",106,106
+CHOED_072,YP_009021738.2,hypothetical protein,hypothetical protein,[46180:46360](-),59,NC_023863.2,"Vibrio phage CHOED, complete genome",106,106
+APD18164.1,APD18164.1,hypothetical protein,hypothetical protein,[39369:39741](-),123,KY065149.1,"Vibrio phage JSF7, complete genome",106,106
+VpV262p28,NP_640289.1,hypothetical protein,hypothetical protein,[14505:14748](+),80,NC_003907.2,"Vibrio phage VpV262, complete genome",106,106
+APD18163.1,APD18163.1,hypothetical protein,hypothetical protein,[39093:39357](-),87,KY065149.1,"Vibrio phage JSF7, complete genome",106,106
+VN4_10,YP_003347910.1,hypothetical protein,hypothetical protein,[7202:7598](+),131,NC_013651.1,"Vibrio phage N4, complete genome",112,112
+ViPhICP3_gp16,YP_004251259.1,hypothetical protein,hypothetical protein,[7952:8348](+),131,NC_015159.1,"Vibrio phage ICP3, complete genome",112,112
+VP3_0013,AFH14413.1,hypothetical protein,hypothetical protein,[7802:8198](+),131,JQ780163.1,"Vibrio phage VP3, complete genome",112,112
+VVP4_p06,YP_418238.1,hypothetical protein,hypothetical protein,[7806:8202](+),131,NC_007149.1,"Vibriophage VP4, complete genome",112,112
+TU18-21_00060,ADX87599.1,hypothetical protein,hypothetical protein,[7945:8341](+),131,HQ641343.1,"Vibrio phage ICP3_2008_A, complete genome",112,112
+VP3_0019,AFH14419.1,hypothetical protein,hypothetical protein,[13113:13482](+),122,JQ780163.1,"Vibrio phage VP3, complete genome",116,116
+TU18-RWS_00095,ADX87511.1,hypothetical protein,hypothetical protein,[13740:14133](+),130,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",116,116
+VN4_19,YP_003347919.1,hypothetical protein,hypothetical protein,[13414:13807](+),130,NC_013651.1,"Vibrio phage N4, complete genome",116,116
+ASU01152.1,ASU01152.1,hypothetical protein,hypothetical protein,[18663:19056](+),130,MF574151.1,"Vibrio phage JSF25, complete genome",116,116
+ViPhICP3_gp24,YP_004251267.1,hypothetical protein,hypothetical protein,[13863:14256](+),130,NC_015159.1,"Vibrio phage ICP3, complete genome",116,116
+VPMG_00083,YP_007676573.1,hypothetical protein,hypothetical protein,[45051:45915](+),287,NC_020868.1,Vibrio phage VBP32 genomic sequence,120,120
+APD18048.1,APD18048.1,nucleoporin,hypothetical protein,[21287:22556](+),422,KY065148.1,"Vibrio phage JSF3, complete genome",120,120
+M612_gp49,YP_008126817.1,hypothetical protein,hypothetical protein,[46074:47343](-),422,NC_021540.1,"Vibrio phage JA-1, complete genome",120,120
+pVco5_112,ARM71101.1,hypothetical protein,hypothetical protein,[58024:59161](-),378,KY612839.1,"Vibrio phage pVco-5, complete genome",120,120
+CHOED_019,YP_009021685.1,hypothetical protein,hypothetical protein,[18894:19119](-),74,NC_023863.2,"Vibrio phage CHOED, complete genome",120,120
+VCO139_0055,AGK85679.1,hypothetical protein,hypothetical protein,[45767:47036](-),422,KC438283.1,"Vibrio phage VCO139, complete genome",120,120
+AVV30_gp075,YP_009198593.1,hypothetical protein,hypothetical protein,[45911:47180](-),422,NC_028799.1,"Vibrio phage phi 1, complete genome",120,120
+vBVspPpVa5_0024,APC46042.1,hypothetical protein,hypothetical protein,[23481:24339](+),285,KX889068.2,"Vibrio phage pVa5, complete genome",120,<5fil
+VpV262p47,NP_640308.1,hypothetical protein,hypothetical protein,[24827:29438](-),1536,NC_003907.2,"Vibrio phage VpV262, complete genome",122,122
+CHOED_012,YP_009021678.1,hypothetical protein,hypothetical protein,[10889:12191](+),433,NC_023863.2,"Vibrio phage CHOED, complete genome",122,122
+ICP22011A_006,AII27050.1,hypothetical protein,hypothetical protein,[3407:7658](-),1416,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",122,122
+LD36_gp06,YP_009056218.1,hypothetical protein,hypothetical protein,[3473:7724](-),1416,NC_024791.1,"Vibrio phage ICP2_2013_A_Haiti, complete genome",122,122
+TU12-16_00025,ADX87759.1,hypothetical protein,hypothetical protein,[3382:7633](-),1416,HQ641346.1,"Vibrio phage ICP2_2006_A, complete genome",122,122
+VP3_0012,AFH14412.1,hypothetical protein,hypothetical protein,[7527:7788](+),86,JQ780163.1,"Vibrio phage VP3, complete genome",126,126
+TU18-RWS_00045,ADX87503.1,hypothetical protein,hypothetical protein,[7500:7782](+),93,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",126,126
+VN4_09,YP_003347909.1,hypothetical protein,hypothetical protein,[6905:7187](+),93,NC_013651.1,"Vibrio phage N4, complete genome",126,126
+TU18-21_00050,ADX87597.1,hypothetical protein,hypothetical protein,[7489:7771](+),93,HQ641343.1,"Vibrio phage ICP3_2008_A, complete genome",126,126
+ViPhICP3_gp14,YP_004251257.1,hypothetical protein,hypothetical protein,[7517:7778](+),86,NC_015159.1,"Vibrio phage ICP3, complete genome",126,126
+pVco5_105,ARM71094.1,crossover junction endodeoxyribonuclease,crossover junction endodeoxyribonuclease RusA,[47058:47379](+),106,KY612839.1,"Vibrio phage pVco-5, complete genome",129,129
+CG95_gp13,YP_009009732.1,cossover junction endodeoxyribonuclease rusA,crossover junction endodeoxyribonuclease RusA,[27305:27686](-),126,NC_023605.1,"Vibrio phage PVA1, complete genome",129,129
+VCO139_0052,AGI61881.1,crossover junction endodeoxyribonuclease RusA,crossover junction endodeoxyribonuclease RusA,[35429:36227](+),265,KC438283.1,"Vibrio phage VCO139, complete genome",129,129
+AVV30_gp071,YP_009198589.1,crossover junction endodeoxyribonuclease RusA,crossover junction endodeoxyribonuclease RusA,[34919:35717](+),265,NC_028799.1,"Vibrio phage phi 1, complete genome",129,129
+VPR_136,AUG88500.1,hypothetical protein,crossover junction endodeoxyribonuclease RusA,[102799:103219](-),139,MG603697.1,"Vibrio phage Vp_R1, complete genome",129,129
+M612_gp51,YP_008126815.1,crossover junction endodeoxyribonuclease RusA,crossover junction endodeoxyribonuclease RusA,[35736:36534](+),265,NC_021540.1,"Vibrio phage JA-1, complete genome",129,129
+vBVspPpVa5_0027,APC46062.1,hollidat junction resolvase protein,crossover junction endodeoxyribonuclease RusA,[34890:35310](-),139,KX889068.2,"Vibrio phage pVa5, complete genome",129,129
+APD18052.1,APD18052.1,hypothetical protein,crossover junction endodeoxyribonuclease RusA,[32096:32894](-),265,KY065148.1,"Vibrio phage JSF3, complete genome",129,129
+VN4_42,YP_003347942.1,hypothetical protein,hypothetical protein,[34882:35353](+),156,NC_013651.1,"Vibrio phage N4, complete genome",130,130
+VP3_0047,AFH14447.1,hypothetical protein,hypothetical protein,[36216:36333](+),38,JQ780163.1,"Vibrio phage VP3, complete genome",130,130
+TU18-20_00215,ADX87678.1,hypothetical protein,hypothetical protein,[35345:35894](+),182,HQ641344.1,"Vibrio phage ICP3_2007_A, complete genome",130,130
+TU18-RWS_00215,ADX87535.1,hypothetical protein,hypothetical protein,[35448:35880](+),143,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",130,130
+TU18-21_00220,ADX87631.1,hypothetical protein,hypothetical protein,[35633:36155](+),173,HQ641343.1,"Vibrio phage ICP3_2008_A, complete genome",130,130
+APD18151.1,APD18151.1,hypothetical protein,hypothetical protein,[19647:19914](-),88,KY065149.1,"Vibrio phage JSF7, complete genome",130,130
+ViPhICP3_gp49,YP_004251292.1,hypothetical protein,hypothetical protein,[35451:35895](+),147,NC_015159.1,"Vibrio phage ICP3, complete genome",130,130
+VP3_0046,AFH14446.1,hypothetical protein,hypothetical protein,[35794:36181](+),128,JQ780163.1,"Vibrio phage VP3, complete genome",130,<5
+AHC94068.1,AHC94068.1,major capsid protein,major capsid protein,[23814:24966](+),383,KF800937.1,"Vibrio phage AS51, complete genome",132,132
+VPP93_gp29,YP_002875653.1,putative capsid protein,major capsid protein,[22966:23965](+),332,NC_012662.1,"Vibrio phage VP93, complete genome",132,132
+APD18160.1,APD18160.1,capsid and scaffold protein,major capsid protein,[35542:36619](-),358,KY065149.1,"Vibrio phage JSF7, complete genome",132,132
+RJ80_gp31,YP_009110743.1,major capsid protein,major capsid protein,[23816:24968](+),383,NC_025822.1,"Vibrio phage phi-A318, complete genome",132,132
+PV_007,AHN84658.1,major capsid protein,major capsid protein,[4277:5549](+),423,KJ502657.1,"Vibrio phage Vc1, complete genome",132,132
+QD07_45,APU00182.1,major capsid protein,major capsid protein,[34111:35263](+),383,KY290756.1,"Vibrio phage Vp670, complete genome",132,132
+VPR_052,AUG88416.1,hypothetical protein,major capsid protein,[21853:22045](-),63,MG603697.1,"Vibrio phage Vp_R1, complete genome",132,132
+TU18-RWS_00165,ADX87525.1,major capsid protein,major capsid protein,[21665:22793](+),375,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",132,crossmatch
+VP3_0036,AFH14436.1,major/minor capsid protein,major capsid protein,[21619:22738](+),372,JQ780163.1,"Vibrio phage VP3, complete genome",132,crossmatch
+ViPhICP3_gp39,YP_004251282.1,major capsid protein,major capsid protein,[21788:22913](+),374,NC_015159.1,"Vibrio phage ICP3, complete genome",132,crossmatch
+ASU01167.1,ASU01167.1,capsid and scaffold protein,major capsid protein,[26587:27712](+),374,MF574151.1,"Vibrio phage JSF25, complete genome",132,crossmatch
+VN4_32,YP_003347932.1,major capsid protein,major capsid protein,[21181:22306](+),374,NC_013651.1,"Vibrio phage N4, complete genome",132,crossmatch
+AVV30_gp025,YP_009198543.1,hypothetical protein,hypothetical protein,[8589:8718](+),42,NC_028799.1,"Vibrio phage phi 1, complete genome",133,133
+VPR_028,AUG88392.1,hypothetical protein,hypothetical protein,[11032:11260](-),75,MG603697.1,"Vibrio phage Vp_R1, complete genome",133,133
+pVco5_072,ARM71060.1,hypothetical protein,hypothetical protein,[20546:21155](+),202,KY612839.1,"Vibrio phage pVco-5, complete genome",133,133
+VPR_011,AUG88375.1,hypothetical protein,hypothetical protein,[2492:2693](-),66,MG603697.1,"Vibrio phage Vp_R1, complete genome",133,133
+VPR_015,AUG88379.1,"ribonucleotide reductase of class Ia (aerobic), beta subunit",hypothetical protein,[4570:5512](-),313,MG603697.1,"Vibrio phage Vp_R1, complete genome",133,133
+vBVspPpVa5_0034,APC46037.1,"ribonucleotide reductase protein, small chain family",hypothetical protein,[43035:43977](-),313,KX889068.2,"Vibrio phage pVa5, complete genome",133,133
+PV_003,AHN84654.1,putative acetyltransferase,hypothetical protein,[1049:1502](+),150,KJ502657.1,"Vibrio phage Vc1, complete genome",134,134
+QD07_41,APU00178.1,hypothetical protein,hypothetical protein,[30887:31352](+),154,KY290756.1,"Vibrio phage Vp670, complete genome",134,134
+VPR_063,AUG88427.1,hypothetical protein,hypothetical protein,[24767:25211](-),147,MG603697.1,"Vibrio phage Vp_R1, complete genome",134,134
+VPR_139,AUG88503.1,hypothetical protein,hypothetical protein,[104873:105521](-),215,MG603697.1,"Vibrio phage Vp_R1, complete genome",134,134
+VpV262p38,NP_640299.1,hypothetical protein,hypothetical protein,[19612:19849](+),78,NC_003907.2,"Vibrio phage VpV262, complete genome",134,134
+CG95_gp17,YP_009009736.1,antirepressor protein,hypothetical protein,[32540:33368](-),275,NC_023605.1,"Vibrio phage PVA1, complete genome",137,137
+M612_gp74,YP_008126792.1,hypothetical protein,hypothetical protein,[16695:16878](+),60,NC_021540.1,"Vibrio phage JA-1, complete genome",137,137
+AVV30_gp048,YP_009198566.1,hypothetical protein,hypothetical protein,[16848:17031](+),60,NC_028799.1,"Vibrio phage phi 1, complete genome",137,137
+VPR_014,AUG88378.1,hypothetical protein,hypothetical protein,[3847:4558](-),236,MG603697.1,"Vibrio phage Vp_R1, complete genome",137,137
+pVco5_080,ARM71068.1,hypothetical protein,hypothetical protein,[24515:24656](+),46,KY612839.1,"Vibrio phage pVco-5, complete genome",137,137
+ASU01148.1,ASU01148.1,hypothetical protein,hypothetical protein,[15613:16072](+),152,MF574151.1,"Vibrio phage JSF25, complete genome",142,142
+VN4_14,YP_003347914.1,hypothetical protein,hypothetical protein,[10063:10528](+),154,NC_013651.1,"Vibrio phage N4, complete genome",142,142
+ViPhICP3_gp20,YP_004251263.1,hypothetical protein,hypothetical protein,[10813:11272](+),152,NC_015159.1,"Vibrio phage ICP3, complete genome",142,142
+CHOED_08,YP_009021674.1,hypothetical protein,hypothetical protein,[6064:6388](+),107,NC_023863.2,"Vibrio phage CHOED, complete genome",142,142
+TU18-21_00080,ADX87603.1,hypothetical protein,hypothetical protein,[10806:11265](+),152,HQ641343.1,"Vibrio phage ICP3_2008_A, complete genome",142,142
+ASU01147.1,ASU01147.1,hypothetical protein,hypothetical protein,[15213:15528](+),104,MF574151.1,"Vibrio phage JSF25, complete genome",149,149
+ViPhICP3_gp19,YP_004251262.1,hypothetical protein,hypothetical protein,[10413:10728](+),104,NC_015159.1,"Vibrio phage ICP3, complete genome",149,149
+VN4_13,YP_003347913.1,hypothetical protein,hypothetical protein,[9663:9978](+),104,NC_013651.1,"Vibrio phage N4, complete genome",149,149
+TU18-RWS_00065,ADX87507.1,hypothetical protein,hypothetical protein,[10258:10573](+),104,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",149,149
+VP3_0016,AFH14416.1,hypothetical protein,hypothetical protein,[10270:10579](+),102,JQ780163.1,"Vibrio phage VP3, complete genome",149,149
+pVco5_044,ARM71032.1,hypothetical protein,hypothetical protein,[9749:9968](+),72,KY612839.1,"Vibrio phage pVco-5, complete genome",151,151
+VCO139_0039,AGI61869.1,hypothetical protein,hypothetical protein,[24159:24609](+),149,KC438283.1,"Vibrio phage VCO139, complete genome",151,151
+AVV30_gp059,YP_009198577.1,hypothetical protein,hypothetical protein,[23859:24309](+),149,NC_028799.1,"Vibrio phage phi 1, complete genome",151,151
+M612_gp64,YP_008126802.1,hypothetical protein,hypothetical protein,[24466:24916](+),149,NC_021540.1,"Vibrio phage JA-1, complete genome",151,151
+APD18065.1,APD18065.1,hypothetical protein,hypothetical protein,[43714:44164](-),149,KY065148.1,"Vibrio phage JSF3, complete genome",151,151
+pVco5_095,ARM71083.1,hypothetical protein,hypothetical protein,[37539:37986](+),148,KY612839.1,"Vibrio phage pVco-5, complete genome",151,151
+ViPhICP2p17,YP_004251188.1,hypothetical protein,hypothetical protein,[15940:16690](-),249,NC_015158.1,"Vibrio phage ICP2, complete genome",158,158
+I904_gp11,YP_007518353.1,hypothetical protein,hypothetical protein,[17793:18780](-),328,NC_020488.1,"Vibrio phage VvAW1, complete genome",158,158
+VpV262p58,NP_640319.1,hypothetical protein,hypothetical protein,[38280:39015](-),244,NC_003907.2,"Vibrio phage VpV262, complete genome",158,158
+ICP22011A_0017,AII27061.1,hypothetical protein,hypothetical protein,[15938:16688](-),249,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",158,158
+LD36_gp17,YP_009056229.1,hypothetical protein,hypothetical protein,[16018:16771](-),250,NC_024791.1,"Vibrio phage ICP2_2013_A_Haiti, complete genome",158,158
+M612_gp69,YP_008126797.1,putative HNH homing endonuclease,putative HNH homing endonuclease,[19994:20381](+),128,NC_021540.1,"Vibrio phage JA-1, complete genome",163,163
+M612_gp71,YP_008126795.1,putative HNH homing endonuclease,putative HNH homing endonuclease,[18891:19467](+),191,NC_021540.1,"Vibrio phage JA-1, complete genome",163,163
+VCO139_0034,AGI61864.1,putative HNH homing endonuclease,putative HNH homing endonuclease,[19687:20074](+),128,KC438283.1,"Vibrio phage VCO139, complete genome",163,163
+VPNG_00010,YP_007674105.1,HNH endonuclease,putative HNH homing endonuclease,[4574:5057](+),160,NC_020848.1,Vibrio phage VBP47 genomic sequence,163,163
+pVco5_088,ARM71076.1,hypothetical protein,putative HNH homing endonuclease,[33050:33617](+),188,KY612839.1,"Vibrio phage pVco-5, complete genome",163,163
+VPMG_00005,YP_007676495.1,HNH endonuclease,putative HNH homing endonuclease,[2156:2639](-),160,NC_020868.1,Vibrio phage VBP32 genomic sequence,163,163
+AVV30_gp062,YP_009198580.1,putative HNH homing endonuclease,putative HNH homing endonuclease,[27084:27618](+),177,NC_028799.1,"Vibrio phage phi 1, complete genome",163,163
+APD18075.1,APD18075.1,HNH homing endonuclease,putative HNH homing endonuclease,[49164:49740](-),191,KY065148.1,"Vibrio phage JSF3, complete genome",163,163
+M612_gp62,YP_008126804.1,putative HNH homing endonuclease,putative HNH homing endonuclease,[26854:27388](+),177,NC_021540.1,"Vibrio phage JA-1, complete genome",163,163
+M612_gp56,YP_008126810.1,putative HNH homing endonuclease,putative HNH homing endonuclease,[31269:31905](+),211,NC_021540.1,"Vibrio phage JA-1, complete genome",163,163
+APD18073.1,APD18073.1,hypothetical protein,putative HNH homing endonuclease,[48250:48637](-),128,KY065148.1,"Vibrio phage JSF3, complete genome",163,163
+APD18057.1,APD18057.1,HNH homing endonuclease,putative HNH homing endonuclease,[36725:37361](-),211,KY065148.1,"Vibrio phage JSF3, complete genome",163,163
+vBVspPpVa5_0041,APC46052.1,HNH endonuclease protein,putative HNH homing endonuclease,[47360:48017](-),218,KX889068.2,"Vibrio phage pVa5, complete genome",163,163
+AVV30_gp052,YP_009198570.1,hypothetical protein,putative HNH homing endonuclease,[19128:19728](+),199,NC_028799.1,"Vibrio phage phi 1, complete genome",163,163
+VPR_012,AUG88376.1,hypothetical protein,putative HNH homing endonuclease,[2754:3060](-),101,MG603697.1,"Vibrio phage Vp_R1, complete genome",163,163
+AVV30_gp061,YP_009198579.1,hypothetical protein,putative HNH homing endonuclease,[26108:26663](+),184,NC_028799.1,"Vibrio phage phi 1, complete genome",163,163
+VCO139_0032,AGI61862.1,putative HNH homing endonuclease,putative HNH homing endonuclease,[18584:19160](+),191,KC438283.1,"Vibrio phage VCO139, complete genome",163,163
+VPR_146,AUG88510.1,hypothetical protein,putative HNH homing endonuclease,[110071:110470](-),132,MG603697.1,"Vibrio phage Vp_R1, complete genome",163,<5
+VpV262p66,NP_640327.1,hypothetical protein,hypothetical protein,[44421:44820](-),132,NC_003907.2,"Vibrio phage VpV262, complete genome",164,164
+ICP22011A_002,AII27046.1,hypothetical protein,hypothetical protein,[541:871](-),109,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",164,164
+CHOED_087,YP_009021753.1,hypothetical protein,hypothetical protein,[56740:57115](+),124,NC_023863.2,"Vibrio phage CHOED, complete genome",164,164
+LD36_gp02,YP_009056214.1,hypothetical protein,hypothetical protein,[629:968](-),112,NC_024791.1,"Vibrio phage ICP2_2013_A_Haiti, complete genome",164,164
+ViPhICP2p02,YP_004251173.1,hypothetical protein,hypothetical protein,[544:925](-),126,NC_015158.1,"Vibrio phage ICP2, complete genome",164,164
+VVP4_p21,YP_249590.1,tail tubular protein A,putative tail tubular protein A,[22806:23400](+),197,NC_007149.1,"Vibriophage VP4, complete genome",171,171
+ASU01168.1,ASU01168.1,tail fiber protein / tubular protein A,putative tail tubular protein A,[27777:28371](+),197,MF574151.1,"Vibrio phage JSF25, complete genome",171,171
+AHC94069.1,AHC94069.1,tail protein,putative tail tubular protein A,[25009:25687](+),225,KF800937.1,"Vibrio phage AS51, complete genome",171,171
+VPP93_gp30,YP_002875654.1,putative tail tubular protein A,putative tail tubular protein A,[24170:24731](+),186,NC_012662.1,"Vibrio phage VP93, complete genome",171,171
+PV_008,AHN84659.1,putative tail tubular protein A,putative tail tubular protein A,[5608:6256](+),215,KJ502657.1,"Vibrio phage Vc1, complete genome",171,171
+APD18159.1,APD18159.1,tail tubular protein A,putative tail tubular protein A,[34890:35484](-),197,KY065149.1,"Vibrio phage JSF7, complete genome",171,171
+ViPhICP3_gp40,YP_004251283.1,tail tubular protein A,putative tail tubular protein A,[22978:23572](+),197,NC_015159.1,"Vibrio phage ICP3, complete genome",171,171
+VpV262p51,NP_640312.1,hypothetical protein,putative tail tubular protein A,[30842:31595](-),250,NC_003907.2,"Vibrio phage VpV262, complete genome",171,171
+QD07_46,APU00183.1,tail protein,putative tail tubular protein A,[35330:35978](+),215,KY290756.1,"Vibrio phage Vp670, complete genome",171,171
+VPR_085,AUG88449.1,hypothetical protein,putative cobalamin biosynthesis protein CobT,[42220:42454](-),77,MG603697.1,"Vibrio phage Vp_R1, complete genome",172,172
+ICP22011A_0041,AII27085.1,hypothetical protein,putative cobalamin biosynthesis protein CobT,[32514:34257](+),580,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",172,172
+ViPhICP2p41,YP_004251212.1,putative cobalamin biosynthesis protein CobT,putative cobalamin biosynthesis protein CobT,[33356:35099](+),580,NC_015158.1,"Vibrio phage ICP2, complete genome",172,172
+TU12-16_00185,ADX87791.1,putative cobalamin biosynthesis protein CobT,putative cobalamin biosynthesis protein CobT,[32508:34251](+),580,HQ641346.1,"Vibrio phage ICP2_2006_A, complete genome",172,172
+LD36_gp40,YP_009056252.1,putative aerobic cobaltochelatase CobT subunit,putative cobalamin biosynthesis protein CobT,[32878:34594](+),571,NC_024791.1,"Vibrio phage ICP2_2013_A_Haiti, complete genome",172,172
+M612_gp37,YP_008126829.1,hypothetical protein,hypothetical protein,[59773:60460](-),228,NC_021540.1,"Vibrio phage JA-1, complete genome",179,179
+vBVspPpVa5_0008,APC46049.1,putative tail protein,hypothetical protein,[7239:7947](+),235,KX889068.2,"Vibrio phage pVa5, complete genome",179,179
+VPNG_00063,YP_007674158.1,hypothetical protein,hypothetical protein,[56662:57370](-),235,NC_020848.1,Vibrio phage VBP47 genomic sequence,179,179
+VPMG_00066,YP_007676556.1,hypothetical protein,hypothetical protein,[26034:26742](+),235,NC_020868.1,Vibrio phage VBP32 genomic sequence,179,179
+CHOED_067,YP_009021733.1,hypothetical protein,hypothetical protein,[43535:43718](-),60,NC_023863.2,"Vibrio phage CHOED, complete genome",179,179
+pVco5_123,ARM71112.1,hypothetical protein,hypothetical protein,[71897:72587](-),229,KY612839.1,"Vibrio phage pVco-5, complete genome",179,179
+AVV30_gp087,YP_009198605.1,hypothetical protein,hypothetical protein,[58976:59663](-),228,NC_028799.1,"Vibrio phage phi 1, complete genome",179,179
+APD18036.1,APD18036.1,hypothetical protein,hypothetical protein,[8170:8857](+),228,KY065148.1,"Vibrio phage JSF3, complete genome",179,179
+AVV30_gp049,YP_009198567.1,hypothetical protein,hypothetical protein,[17044:17683](+),212,NC_028799.1,"Vibrio phage phi 1, complete genome",182,182
+pVco5_081,ARM71069.1,hypothetical protein,hypothetical protein,[24669:25482](+),270,KY612839.1,"Vibrio phage pVco-5, complete genome",182,182
+APD18077.1,APD18077.1,hypothetical protein,hypothetical protein,[51098:51740](-),213,KY065148.1,"Vibrio phage JSF3, complete genome",182,182
+MS_046,YP_008239702.1,HTH_Hin protein,hypothetical protein,[38367:38916](-),182,NC_021776.1,"Vibrio phage vpms1, complete genome",182,182
+VCO139_0030,AGI61860.1,hypothetical protein,hypothetical protein,[16584:17226](+),213,KC438283.1,"Vibrio phage VCO139, complete genome",182,182
+M612_gp73,YP_008126793.1,hypothetical protein,hypothetical protein,[16891:17533](+),213,NC_021540.1,"Vibrio phage JA-1, complete genome",182,182
+pVco5_065,ARM71053.1,hypothetical protein,hypothetical protein,[17915:18158](+),80,KY612839.1,"Vibrio phage pVco-5, complete genome",184,184
+APD18097.1,APD18097.1,hypothetical protein,hypothetical protein,[59630:59876](-),81,KY065148.1,"Vibrio phage JSF3, complete genome",184,184
+AVV30_gp026,YP_009198544.1,hypothetical protein,hypothetical protein,[8726:8972](+),81,NC_028799.1,"Vibrio phage phi 1, complete genome",184,184
+CG95_gp06,YP_009009725.1,tRNA pseudouridine synthase D,hypothetical protein,[10607:10826](+),72,NC_023605.1,"Vibrio phage PVA1, complete genome",184,184
+VPR_082,AUG88446.1,hypothetical protein,hypothetical protein,[40353:40833](-),159,MG603697.1,"Vibrio phage Vp_R1, complete genome",184,184
+APD18041.1,APD18041.1,hypothetical protein,hypothetical protein,[14884:15196](+),103,KY065148.1,"Vibrio phage JSF3, complete genome",212,212
+VCO139_0062,AGI61889.1,hypothetical protein,hypothetical protein,[53127:53439](-),103,KC438283.1,"Vibrio phage VCO139, complete genome",212,212
+M612_gp42,YP_008126824.1,hypothetical protein,hypothetical protein,[53434:53746](-),103,NC_021540.1,"Vibrio phage JA-1, complete genome",212,212
+AVV30_gp082,YP_009198600.1,hypothetical protein,hypothetical protein,[53370:53682](-),103,NC_028799.1,"Vibrio phage phi 1, complete genome",212,212
+pVco5_119,ARM71108.1,hypothetical protein,hypothetical protein,[65763:66114](-),116,KY612839.1,"Vibrio phage pVco-5, complete genome",212,212
+VPR_046,AUG88410.1,hypothetical protein,hypothetical protein,[18188:18416](-),75,MG603697.1,"Vibrio phage Vp_R1, complete genome",212,212
+AHC94047.1,AHC94047.1,hypothetical protein,hypothetical protein,[1020:1914](+),297,KF800937.1,"Vibrio phage AS51, complete genome",212,<5
+RJ80_gp03,YP_009110715.1,hypothetical protein,hypothetical protein,[1020:1914](+),297,NC_025822.1,"Vibrio phage phi-A318, complete genome",212,<5
+QD07_16,APU00153.1,DNA-dependent RNA polymerase,DNA-directed RNA polymerase RNAP2,[13112:15899](+),928,KY290756.1,"Vibrio phage Vp670, complete genome",0-10,0-10
+AHC94049.1,AHC94049.1,DNA-directed RNA polymerase,DNA-directed RNA polymerase RNAP2,[3170:4727](+),518,KF800937.1,"Vibrio phage AS51, complete genome",0-10,0-10
+AVV30_gp018,YP_009198536.1,hypothetical protein,DNA-directed RNA polymerase RNAP2,[5601:6051](+),149,NC_028799.1,"Vibrio phage phi 1, complete genome",0-10,0-10
+M612_gp12,YP_008126775.1,DNA-directed RNA polymerase RNAP2,DNA-directed RNA polymerase RNAP2,[5923:7150](+),408,NC_021540.1,"Vibrio phage JA-1, complete genome",0-10,0-10
+TU18-20_00020,ADX87639.1,T3/T7-like RNA polymerase,DNA-directed RNA polymerase RNAP2,[1848:4500](+),883,HQ641344.1,"Vibrio phage ICP3_2007_A, complete genome",0-10,0-10
+APD18106.1,APD18106.1,RNA polymerase,DNA-directed RNA polymerase RNAP2,[61483:62710](-),408,KY065148.1,"Vibrio phage JSF3, complete genome",0-10,0-10
+ASU01137.1,ASU01137.1,DNA-directed RNA polymerase,DNA-directed RNA polymerase RNAP2,[6815:9467](+),883,MF574151.1,"Vibrio phage JSF25, complete genome",0-10,0-10
+RJ80_gp05,YP_009110717.1,DNA-directed RNA polymerase,DNA-directed RNA polymerase RNAP2,[3170:5957](+),928,NC_025822.1,"Vibrio phage phi-A318, complete genome",0-10,0-10
+VVP4_p02,YP_249577.1,T3/T7-like RNA polymerase,DNA-directed RNA polymerase RNAP2,[1845:4497](+),883,NC_007149.1,"Vibriophage VP4, complete genome",0-10,0-10
+vBVspPpVa5_0079,APC46032.1,RNA polymerase protein,DNA-directed RNA polymerase RNAP2,[68113:69328](-),404,KX889068.2,"Vibrio phage pVa5, complete genome",0-10,0-10
+CHOED_076,YP_009021742.2,DNA-directed RNA polymerase,DNA-directed RNA polymerase RNAP2,"join{[49155:50832](-), [47639:48674](-)}",903,NC_023863.2,"Vibrio phage CHOED, complete genome",0-10,0-10
+pVco5_063,ARM71051.1,DNA-directed RNA polymerase RNAP2,DNA-directed RNA polymerase RNAP2,[16113:16902](+),262,KY612839.1,"Vibrio phage pVco-5, complete genome",0-10,0-10
+VP3_006,AFH14406.1,RNA polymerase,DNA-directed RNA polymerase RNAP2,[1840:4492](+),883,JQ780163.1,"Vibrio phage VP3, complete genome",0-10,0-10
+TU18-21_00020,ADX87591.1,T3/T7-like RNA polymerase,DNA-directed RNA polymerase RNAP2,[1848:4500](+),883,HQ641343.1,"Vibrio phage ICP3_2008_A, complete genome",0-10,0-10
+VN4_03,YP_003347903.1,RNA polymerase,DNA-directed RNA polymerase RNAP2,[1168:3820](+),883,NC_013651.1,"Vibrio phage N4, complete genome",0-10,0-10
+AHC94050.1,AHC94050.1,DNA-directed RNA polymerase,DNA-directed RNA polymerase RNAP2,[4614:5955](+),446,KF800937.1,"Vibrio phage AS51, complete genome",0-10,0-10
+VCO139_0011,AGI61842.1,DNA-directed RNA polymerase RNAP2,DNA-directed RNA polymerase RNAP2,[5618:6845](+),408,KC438283.1,"Vibrio phage VCO139, complete genome",0-10,0-10
+ViPhICP3_gp06,YP_004251249.1,RNA polymerase,DNA-directed RNA polymerase RNAP2,[1848:4500](+),883,NC_015159.1,"Vibrio phage ICP3, complete genome",0-10,0-10
+CG95_gp21,YP_009009740.1,putative lysozyme family protein,DNA-directed RNA polymerase RNAP2,[38078:38594](+),171,NC_023605.1,"Vibrio phage PVA1, complete genome",0-10,0-10
+APD18165.1,APD18165.1,RNA polymerase,DNA-directed RNA polymerase RNAP2,[39744:42150](-),801,KY065149.1,"Vibrio phage JSF7, complete genome",0-10,0-10
+VPMG_00019,YP_007676509.1,hypothetical protein,DNA-directed RNA polymerase RNAP2,[8819:10031](-),403,NC_020868.1,Vibrio phage VBP32 genomic sequence,0-10,0-10
+TU18-RWS_00015,ADX87497.1,T3/T7-like RNA polymerase,DNA-directed RNA polymerase RNAP2,[1859:4511](+),883,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",0-10,0-10
+VPP93_gp25,YP_002875649.1,putative RNA polymerase,DNA-directed RNA polymerase RNAP2,[17412:19863](+),816,NC_012662.1,"Vibrio phage VP93, complete genome",0-10,0-10
+pVco5_061,ARM71049.1,DNA-directed RNA polymerase RNAP2,DNA-directed RNA polymerase RNAP2,[14805:15255](+),149,KY612839.1,"Vibrio phage pVco-5, complete genome",0-10,0-10
+AVV30_gp020,YP_009198538.1,DNA-directed RNA polymerase RNAP2,DNA-directed RNA polymerase RNAP2,[6917:7703](+),261,NC_028799.1,"Vibrio phage phi 1, complete genome",0-10,0-10
+PV_028,AHN84679.1,RNA polymerase,DNA-directed RNA polymerase RNAP2,[28596:31341](+),914,KJ502657.1,"Vibrio phage Vc1, complete genome",0-10,0-10
+pVco5_059,ARM71047.1,DNA-directed RNA polymerase RNAP1,DNA-directed RNA polymerase RNAP2,[13224:14178](+),317,KY612839.1,"Vibrio phage pVco-5, complete genome",0-10,fpmrg
+ACQ41_gp28,YP_009153054.1,DNA polymerase I,DNA polymerase I,[26798:28700](-),633,NC_027397.1,"Vibrio phage QH, complete genome",1-17-19-9,1-17-19-9
+VCO139_0040,AGI61870.1,DNA polymerase,DNA polymerase I,[24723:26403](+),559,KC438283.1,"Vibrio phage VCO139, complete genome",1-17-19-9,1-17-19-9
+MS_037,YP_008239693.1,DNA polymerase I,DNA polymerase I,[29150:31022](-),623,NC_021776.1,"Vibrio phage vpms1, complete genome",1-17-19-9,1-17-19-9
+PV_034,AHN84685.1,DNA polymerase,DNA polymerase I,[35697:38211](+),837,KJ502657.1,"Vibrio phage Vc1, complete genome",1-17-19-9,1-17-19-9
+M612_gp63,YP_008126803.1,DNA polymerase,DNA polymerase I,[25030:26710](+),559,NC_021540.1,"Vibrio phage JA-1, complete genome",1-17-19-9,1-17-19-9
+AHC94055.1,AHC94055.1,putative DNA polymerase,DNA polymerase I,[10260:12804](+),847,KF800937.1,"Vibrio phage AS51, complete genome",1-17-19-9,1-17-19-9
+VN4_17,YP_003347917.1,DNA polymerase,DNA polymerase I,[11073:13110](+),678,NC_013651.1,"Vibrio phage N4, complete genome",1-17-19-9,1-17-19-9
+pVco5_096,ARM71084.1,DNA polymerase,DNA polymerase I,[38114:40622](+),835,KY612839.1,"Vibrio phage pVco-5, complete genome",1-17-19-9,1-17-19-9
+VPR_050,AUG88414.1,DNA polymerase,DNA polymerase I,[19392:19929](-),178,MG603697.1,"Vibrio phage Vp_R1, complete genome",1-17-19-9,1-17-19-9
+ASU01150.1,ASU01150.1,DNA polymerase,DNA polymerase I,[16322:18359](+),678,MF574151.1,"Vibrio phage JSF25, complete genome",1-17-19-9,1-17-19-9
+VP2p28,YP_024429.1,DNA polymerase I,DNA polymerase I,[26950:28852](-),633,NC_005879.1,"Vibrio phage VP2, complete genome",1-17-19-9,1-17-19-9
+vBVspPpVa5_0045,APC46020.1,DNA Polymerase I protein,DNA polymerase I,[48978:51522](-),847,KX889068.2,"Vibrio phage pVa5, complete genome",1-17-19-9,1-17-19-9
+VP5_gp28,YP_024986.1,DNA polymerase I,DNA polymerase I,[26899:28801](-),633,NC_005891.1,"Vibrio phage VP5, complete genome",1-17-19-9,1-17-19-9
+VVP4_p08,YP_249581.1,DNA polymerase,DNA polymerase I,[10776:12813](+),678,NC_007149.1,"Vibriophage VP4, complete genome",1-17-19-9,1-17-19-9
+vBVspPpVa5_0098,APC46055.1,hypothetical protein,DNA polymerase I,[74333:74849](-),171,KX889068.2,"Vibrio phage pVa5, complete genome",1-17-19-9,1-17-19-9
+VPR_147,AUG88511.1,DNA polymerase,DNA polymerase I,[110531:112043](-),503,MG603697.1,"Vibrio phage Vp_R1, complete genome",1-17-19-9,1-17-19-9
+APD18064.1,APD18064.1,DNA polymerase I,DNA polymerase I,[41920:43600](-),559,KY065148.1,"Vibrio phage JSF3, complete genome",1-17-19-9,1-17-19-9
+M612_gp61,YP_008126805.1,hypothetical protein,DNA polymerase I,[27506:28505](+),332,NC_021540.1,"Vibrio phage JA-1, complete genome",1-17-19-9,1-17-19-9
+phiVC8_p29,YP_009140158.1,DNA polymerase I,DNA polymerase I,[26431:28333](-),633,NC_027118.1,"Vibrio phage phiVC8, complete genome",1-17-19-9,1-17-19-9
+CHOED_041,YP_009021707.1,DNA polymerase,DNA polymerase I,[29177:31421](-),747,NC_023863.2,"Vibrio phage CHOED, complete genome",1-17-19-9,1-17-19-9
+LD36_gp51,YP_009056263.1,hypothetical protein,DNA polymerase I,[41079:41964](+),294,NC_024791.1,"Vibrio phage ICP2_2013_A_Haiti, complete genome",1-17-19-9,1-17-19-9
+ADX87799.1,ADX87799.1,putative DNA polymerase,DNA polymerase I,"join{[39265:40462](+), [40898:41834](+)}",710,HQ641346.1,"Vibrio phage ICP2_2006_A, complete genome",1-17-19-9,1-17-19-9
+AVV30_gp060,YP_009198578.1,DNA polymerase,DNA polymerase I,[24423:25992](+),522,NC_028799.1,"Vibrio phage phi 1, complete genome",1-17-19-9,1-17-19-9
+CJY_0029,AIZ01428.1,DNA polymerase I,DNA polymerase I,[26954:28856](-),633,KM612260.1,"Vibrio phage CJY, complete genome",1-17-19-9,1-17-19-9
+VPMG_00105,YP_007676595.1,DNA polymerase I,DNA polymerase I,[69138:71763](-),874,NC_020868.1,Vibrio phage VBP32 genomic sequence,1-17-19-9,1-17-19-9
+VpV262p19,NP_640280.1,DNA polymerase,DNA polymerase I,[8942:10928](+),661,NC_003907.2,"Vibrio phage VpV262, complete genome",1-17-19-9,1-17-19-9
+AVV30_gp063,YP_009198581.1,DNA polymerase,DNA polymerase I,[27877:28735](+),285,NC_028799.1,"Vibrio phage phi 1, complete genome",1-17-19-9,1-17-19-9
+ACQ42_gp29,YP_009152780.1,DNA polymerase I,DNA polymerase I,[26954:28856](-),633,NC_027393.1,"Vibrio phage J2, complete genome",1-17-19-9,1-17-19-9
+QD07_26,APU00163.1,putative DNA polymerase,DNA polymerase I,[20689:23233](+),847,KY290756.1,"Vibrio phage Vp670, complete genome",1-17-19-9,1-17-19-9
+LD36_gp50,YP_009056262.1,putative DNA polymerase,DNA polymerase I,[39870:41070](+),399,NC_024791.1,"Vibrio phage ICP2_2013_A_Haiti, complete genome",1-17-19-9,1-17-19-9
+APD18125.1,APD18125.1,DNA polymerase I,DNA polymerase I,[1340:3734](-),797,KY065149.1,"Vibrio phage JSF7, complete genome",1-17-19-9,1-17-19-9
+ViPhICP3_gp22,YP_004251265.1,DNA polymerase,DNA polymerase I,[11522:13559](+),678,NC_015159.1,"Vibrio phage ICP3, complete genome",1-17-19-9,1-17-19-9
+VPP93_gp14,YP_002875638.1,putative DNA polymerase,DNA polymerase I,[8650:11086](+),811,NC_012662.1,"Vibrio phage VP93, complete genome",1-17-19-9,1-17-19-9
+H1_0029,AIZ01476.1,DNA polymerase I,DNA polymerase I,[26954:28856](-),633,KM612261.1,"Vibrio phage H1, complete genome",1-17-19-9,1-17-19-9
+vBVspPpVa5_0067,APC46064.1,hypothetical protein,DNA polymerase I,[61542:61920](-),125,KX889068.2,"Vibrio phage pVa5, complete genome",1-17-19-9,1-17-19-9
+APD18167.1,APD18167.1,hypothetical protein,putative endonuclease,[42690:43176](-),161,KY065149.1,"Vibrio phage JSF7, complete genome",107-177,107-177
+VPP93_gp23,YP_002875647.1,putative endonuclease,putative endonuclease,[16086:16527](+),146,NC_012662.1,"Vibrio phage VP93, complete genome",107-177,107-177
+ViPhICP2p52,YP_004251223.1,hypothetical protein,putative endonuclease,[42688:42790](+),33,NC_015158.1,"Vibrio phage ICP2, complete genome",107-177,107-177
+pVco5_062,ARM71050.1,hypothetical protein,putative endonuclease,[15396:15945](+),182,KY612839.1,"Vibrio phage pVco-5, complete genome",107-177,107-177
+PV_041,AHN84692.1,putative endonuclease,putative endonuclease,[41936:42233](+),98,KJ502657.1,"Vibrio phage Vc1, complete genome",107-177,107-177
+AVV30_gp032,YP_009198550.1,hypothetical protein,putative endonuclease,[10410:10725](+),104,NC_028799.1,"Vibrio phage phi 1, complete genome",107-177,107-177
+QD07_34,APU00171.1,recombination endonuclease VII,putative endonuclease,[27019:27457](+),145,KY290756.1,"Vibrio phage Vp670, complete genome",107-177,107-177
+AHC94060.1,AHC94060.1,hypothetical protein,putative endonuclease,[16562:17018](+),151,KF800937.1,"Vibrio phage AS51, complete genome",107-177,107-177
+VCO139_0016,AGI61847.1,hypothetical protein,putative endonuclease,[10164:10293](+),42,KC438283.1,"Vibrio phage VCO139, complete genome",107-177,107-177
+VN4_16,YP_003347916.1,putative 13.5 kDa protein,putative endonuclease,[10778:11090](+),103,NC_013651.1,"Vibrio phage N4, complete genome",107-177,107-177
+VpV262p13,NP_640274.1,hypothetical protein,putative endonuclease,[5730:6126](+),131,NC_003907.2,"Vibrio phage VpV262, complete genome",107-177,107-177
+TU12-16_00240,ADX87801.1,hypothetical protein,putative endonuclease,[41842:42208](+),121,HQ641346.1,"Vibrio phage ICP2_2006_A, complete genome",107-177,107-177
+ViPhICP2p53,YP_004251224.1,putative endonuclease,putative endonuclease,[42762:43053](+),96,NC_015158.1,"Vibrio phage ICP2, complete genome",107-177,107-177
+APD18092.1,APD18092.1,hypothetical protein,putative endonuclease,[58031:58346](-),104,KY065148.1,"Vibrio phage JSF3, complete genome",107-177,107-177
+VPR_099,AUG88463.1,hypothetical protein,putative endonuclease,[56642:56948](-),101,MG603697.1,"Vibrio phage Vp_R1, complete genome",107-177,107-177
+M612_gp17,YP_008126780.1,hypothetical protein,putative endonuclease,[10471:10600](+),42,NC_021540.1,"Vibrio phage JA-1, complete genome",107-177,107-177
+ICP22011A_0053,AII27097.1,putative endonuclease,putative endonuclease,[41833:42214](+),126,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",107-177,107-177
+AVV30_gp019,YP_009198537.1,hypothetical protein,putative endonuclease,[6192:6750](+),185,NC_028799.1,"Vibrio phage phi 1, complete genome",107-177,<5
+M612_gp36,YP_008126830.1,terminase large subunit,DNA packaging protein B,[60467:63080](-),870,NC_021540.1,"Vibrio phage JA-1, complete genome",127-6-80,127-6-80
+VVP4_p31,YP_249597.1,DNA packaging protein B,DNA packaging protein B,[37032:38793](+),586,NC_007149.1,"Vibriophage VP4, complete genome",127-6-80,127-6-80
+APD18147.1,APD18147.1,DNA packaging protein,DNA packaging protein B,[16856:18869](-),670,KY065149.1,"Vibrio phage JSF7, complete genome",127-6-80,127-6-80
+PV_016,AHN84667.1,large terminase subunit,DNA packaging protein B,[18975:20856](+),626,KJ502657.1,"Vibrio phage Vc1, complete genome",127-6-80,127-6-80
+VN4_46,YP_003347946.1,DNA packaging/maturation protein B,DNA packaging protein B,[36065:37784](+),572,NC_013651.1,"Vibrio phage N4, complete genome",127-6-80,127-6-80
+LD36_gp20,YP_009056232.1,hypothetical protein,DNA packaging protein B,[18820:20347](-),508,NC_024791.1,"Vibrio phage ICP2_2013_A_Haiti, complete genome",127-6-80,127-6-80
+AHC94076.1,AHC94076.1,large terminase subunit,DNA packaging protein B,[36230:38105](+),624,KF800937.1,"Vibrio phage AS51, complete genome",127-6-80,127-6-80
+AVV30_gp088,YP_009198606.1,terminase large subunit,DNA packaging protein B,[59670:61269](-),532,NC_028799.1,"Vibrio phage phi 1, complete genome",127-6-80,127-6-80
+ViPhICP2p20,YP_004251191.1,hypothetical protein,DNA packaging protein B,[18738:20265](-),508,NC_015158.1,"Vibrio phage ICP2, complete genome",127-6-80,127-6-80
+ICP22011A_0020,AII27064.1,hypothetical protein,DNA packaging protein B,[18736:20263](-),508,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",127-6-80,127-6-80
+VPMG_00065,YP_007676555.1,hypothetical protein,DNA packaging protein B,[24380:25991](+),536,NC_020868.1,Vibrio phage VBP32 genomic sequence,127-6-80,127-6-80
+pVco5_124,ARM71113.1,terminase large subunit,DNA packaging protein B,[72580:74170](-),529,KY612839.1,"Vibrio phage pVco-5, complete genome",127-6-80,127-6-80
+VPP93_gp38,YP_002875662.1,putative DNA maturase B,DNA packaging protein B,[38535:40341](+),601,NC_012662.1,"Vibrio phage VP93, complete genome",127-6-80,127-6-80
+ViPhICP3_gp53,YP_004251296.1,DNA packaging protein B,DNA packaging protein B,[36678:38439](+),586,NC_015159.1,"Vibrio phage ICP3, complete genome",127-6-80,127-6-80
+QD07_5,APU00142.1,large terminase subunit,DNA packaging protein B,[5743:7618](+),624,KY290756.1,"Vibrio phage Vp670, complete genome",127-6-80,127-6-80
+VpV262p61,NP_640322.1,hypothetical protein,DNA packaging protein B,[41061:42669](-),535,NC_003907.2,"Vibrio phage VpV262, complete genome",127-6-80,127-6-80
+vBVspPpVa5_0004,APC46029.1,N4 gp68 like protein,DNA packaging protein B,[1367:2972](+),534,KX889068.2,"Vibrio phage pVa5, complete genome",127-6-80,127-6-80
+VPR_021,AUG88385.1,DNA ligase,ATP-dependent DNA ligase,[8385:9339](-),317,MG603697.1,"Vibrio phage Vp_R1, complete genome",138-93,138-93
+ViPhICP3_gp07,YP_004251250.1,DNA ligase,ATP-dependent DNA ligase,[4695:5676](+),326,NC_015159.1,"Vibrio phage ICP3, complete genome",138-93,138-93
+TU18-21_00025,ADX87592.1,ATP-dependent DNA ligase,ATP-dependent DNA ligase,[4627:5608](+),326,HQ641343.1,"Vibrio phage ICP3_2008_A, complete genome",138-93,138-93
+ICP22011A_0062,AII27106.1,putative DNA ligase,ATP-dependent DNA ligase,[45308:45998](+),229,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",138-93,138-93
+VP3_007,AFH14407.1,DNA ligase,ATP-dependent DNA ligase,[4677:5652](+),324,JQ780163.1,"Vibrio phage VP3, complete genome",138-93,138-93
+APD18170.1,APD18170.1,DNA ligase,ATP-dependent DNA ligase,[43963:44734](-),256,KY065149.1,"Vibrio phage JSF7, complete genome",138-93,138-93
+MS_029,YP_008239685.1,DNA ligase,ATP-dependent DNA ligase,[23523:24432](-),302,NC_021776.1,"Vibrio phage vpms1, complete genome",138-93,138-93
+VVP4_p03,YP_249578.1,ATP-dependent DNA ligase,ATP-dependent DNA ligase,[4682:5663](+),326,NC_007149.1,"Vibriophage VP4, complete genome",138-93,138-93
+CHOED_023,YP_009021689.1,ATP-dependent DNA ligase,ATP-dependent DNA ligase,[21272:22346](-),357,NC_023863.2,"Vibrio phage CHOED, complete genome",138-93,138-93
+VN4_04,YP_003347904.1,DNA ligase,ATP-dependent DNA ligase,[4002:5013](+),336,NC_013651.1,"Vibrio phage N4, complete genome",138-93,138-93
+QD07_38,APU00175.1,adenylation DNA ligase-like protein,ATP-dependent DNA ligase,[29409:30420](+),336,KY290756.1,"Vibrio phage Vp670, complete genome",138-93,138-93
+CHOED_05,YP_009021671.1,hypothetical protein,ATP-dependent DNA ligase,[3583:4294](+),236,NC_023863.2,"Vibrio phage CHOED, complete genome",138-93,138-93
+AHC94064.1,AHC94064.1,DNA ligase-like protein,ATP-dependent DNA ligase,[19106:20105](+),332,KF800937.1,"Vibrio phage AS51, complete genome",138-93,138-93
+ASU01138.1,ASU01138.1,DNA ligase,ATP-dependent DNA ligase,[9593:10574](+),326,MF574151.1,"Vibrio phage JSF25, complete genome",138-93,138-93
+TU18-RWS_00020,ADX87498.1,ATP-dependent DNA ligase,ATP-dependent DNA ligase,[4638:5619](+),326,HQ641341.1,"Vibrio phage ICP3_2009_B, complete genome",138-93,138-93
+ACQ42_gp35,YP_009152786.1,hypothetical protein,hypothetical protein,[32753:33434](-),226,NC_027393.1,"Vibrio phage J2, complete genome",34-68,34-68
+ACQ41_gp34,YP_009153060.1,hypothetical protein,hypothetical protein,[32597:33290](-),230,NC_027397.1,"Vibrio phage QH, complete genome",34-68,34-68
+CJY_0035,AIZ01434.1,hypothetical protein,hypothetical protein,[32753:33446](-),230,KM612260.1,"Vibrio phage CJY, complete genome",34-68,34-68
+phiVC8_p36,YP_009140165.1,hypothetical protein,hypothetical protein,[32537:33230](-),230,NC_027118.1,"Vibrio phage phiVC8, complete genome",34-68,34-68
+phiVC8_p46,YP_009140175.1,hypothetical protein,hypothetical protein,[37494:38094](-),199,NC_027118.1,"Vibrio phage phiVC8, complete genome",34-68,34-68
+VP2p45,YP_053004.1,hypothetical protein,hypothetical protein,[38355:38946](-),196,NC_005879.1,"Vibrio phage VP2, complete genome",34-68,34-68
+VP5_gp48,YP_053042.1,hypothetical protein,hypothetical protein,[38290:38881](-),196,NC_005891.1,"Vibrio phage VP5, complete genome",34-68,34-68
+ACQ42_gp46,YP_009152797.1,hypothetical protein,hypothetical protein,[38041:38632](-),196,NC_027393.1,"Vibrio phage J2, complete genome",34-68,34-68
+J3_0047,AIZ01686.1,hypothetical protein,hypothetical protein,[38291:38882](-),196,KM612265.1,"Vibrio phage J3, complete genome",34-68,34-68
+H1_0046,AIZ01493.1,hypothetical protein,hypothetical protein,[38041:38632](-),196,KM612261.1,"Vibrio phage H1, complete genome",34-68,34-68
+VP5_gp34,YP_053028.1,hypothetical protein,hypothetical protein,[32698:33391](-),230,NC_005891.1,"Vibrio phage VP5, complete genome",34-68,34-68
+VP2p33,YP_052992.1,hypothetical protein,hypothetical protein,[32749:33442](-),230,NC_005879.1,"Vibrio phage VP2, complete genome",34-68,34-68
+CJY_0046,AIZ01445.1,hypothetical protein,hypothetical protein,[38053:38644](-),196,KM612260.1,"Vibrio phage CJY, complete genome",34-68,34-68
+H3_0046,AIZ01589.1,hypothetical protein,hypothetical protein,[38041:38632](-),196,KM612263.1,"Vibrio phage H3, complete genome",34-68,34-68
+ACQ41_gp46,YP_009153072.1,hypothetical protein,hypothetical protein,[38236:38827](-),196,NC_027397.1,"Vibrio phage QH, complete genome",34-68,34-68
+H1_0035,AIZ01482.1,hypothetical protein,hypothetical protein,[32753:33434](-),226,KM612261.1,"Vibrio phage H1, complete genome",34-68,34-68
+ICP22011A_0058,AII27102.1,putative exonuclease,5'-3'exonuclease,[43706:44558](+),283,KM224878.1,"Vibrio phage ICP2_2011_A, complete genome",47-97,47-97
+VpV262p30,NP_640291.1,5' to 3' exonuclease-like protein,5'-3'exonuclease,[15038:16010](+),323,NC_003907.2,"Vibrio phage VpV262, complete genome",47-97,47-97
+VPP93_gp22,YP_002875646.1,putative exonuclease,5'-3'exonuclease,[14956:15907](+),316,NC_012662.1,"Vibrio phage VP93, complete genome",47-97,47-97
+VN4_22,YP_003347922.1,exonuclease,5'-3'exonuclease,[14317:15181](+),287,NC_013651.1,"Vibrio phage N4, complete genome",47-97,47-97
+QD07_33,APU00170.1,PIN domain protein,5'-3'exonuclease,[25815:27036](+),406,KY290756.1,"Vibrio phage Vp670, complete genome",47-97,47-97
+APD18172.1,APD18172.1,hypothetical protein,5'-3'exonuclease,[44959:45967](-),335,KY065149.1,"Vibrio phage JSF7, complete genome",47-97,47-97
+VP3_0025,AFH14425.1,exonuclease,5'-3'exonuclease,[14764:15643](+),292,JQ780163.1,"Vibrio phage VP3, complete genome",47-97,47-97
+PV_040,AHN84691.1,5'-3'exonuclease,5'-3'exonuclease,[40606:41815](+),402,KJ502657.1,"Vibrio phage Vc1, complete genome",47-97,47-97
+ViPhICP2p59,YP_004251230.1,putative exonuclease,5'-3'exonuclease,[44545:45397](+),283,NC_015158.1,"Vibrio phage ICP2, complete genome",47-97,47-97
+AHC94058.1,AHC94058.1,exonuclease-like protein,5'-3'exonuclease,[15376:16597](+),406,KF800937.1,"Vibrio phage AS51, complete genome",47-97,47-97
+VVP4_p12,YP_249583.1,exonuclease,5'-3'exonuclease,[14784:15648](+),287,NC_007149.1,"Vibriophage VP4, complete genome",47-97,47-97
+LD36_gp57,YP_009056269.1,putative exonuclease,5'-3'exonuclease,[43876:44722](+),281,NC_024791.1,"Vibrio phage ICP2_2013_A_Haiti, complete genome",47-97,47-97
+VPR_138,AUG88502.1,exonuclease,5'-3'exonuclease,[103796:104846](-),349,MG603697.1,"Vibrio phage Vp_R1, complete genome",47-97,47-97
+CHOED_034,YP_009021700.1,5 -3 exonuclease,5'-3'exonuclease,[26134:27217](-),360,NC_023863.2,"Vibrio phage CHOED, complete genome",47-97,47-97
+phiVC8_p47,YP_009140176.1,hypothetical protein,5'-3'exonuclease,[38092:38788](+),231,NC_027118.1,"Vibrio phage phiVC8, complete genome",47-97,47-97
+ViPhICP3_gp29,YP_004251272.1,exonuclease,5'-3'exonuclease,[15172:16048](+),291,NC_015159.1,"Vibrio phage ICP3, complete genome",47-97,47-97
+I904_gp33,YP_007518375.1,hypothetical protein,5'-3'exonuclease,[32318:33212](+),297,NC_020488.1,"Vibrio phage VvAW1, complete genome",47-97,47-97
