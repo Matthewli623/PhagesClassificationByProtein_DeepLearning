@@ -1,0 +1,99 @@
+﻿prot_tag,prot_id,product,Product_unified,start_stop,size,accession,name,cluster*,origin*
+AAL40840.1,AAL40840.1,zot-like protein,putative assembly protein / zot-like protein,"join{[5849:6834](+), [0:251](+)}",411,AF452449.2,"Bacteriophage VSKK, complete genome",10-3,10-3
+VCYphi_gp08,YP_004934230.1,Zot-like protein,putative assembly protein / zot-like protein,[4210:5575](+),454,NC_016162.1,"Vibrio phage VCY-phi, complete genome",10-3,10-3
+K05K4_52840,ARP21986.1,putative assembly protein,putative assembly protein / zot-like protein,[4025:5168](+),380,CP017906.1,"Vibrio phage K05K4_VK05K4_2, complete sequence",10-3,10-3
+AV950_gp11,YP_004286239.1,Zot,putative assembly protein / zot-like protein,[7533:8733](+),399,NC_015209.1,"Vibrio phage CTX chromosome I, complete genome",10-3,10-3
+K05K4_52730,ARP21975.1,putative assembly protein,putative assembly protein / zot-like protein,[19112:19751](+),212,CP017905.1,"Vibrio phage K05K4_VK05K4_1, complete sequence",10-3,10-3
+BAA33519.1,BAA33519.1,Vpf380,putative assembly protein / zot-like protein,[3370:4513](+),380,AB012574.1,"Vibrio phage Vf12 DNA, complete genome",10-3,10-3
+BAJ12061.1,BAJ12061.1,putative assembly protein,putative assembly protein / zot-like protein,[1812:3048](+),411,AB572858.1,"Vibrio phage ND1-fs1 DNA, complete genome",10-3,10-3
+fs1p06,NP_695195.1,putative assembly protein,putative assembly protein / zot-like protein,[2041:3196](+),384,NC_004306.1,"Vibrio phage fs1, complete genome",10-3,10-3
+KSF-1phigpORFIX,YP_087078.1,putative assembly protein,putative assembly protein / zot-like protein,[3799:5167](+),455,NC_006294.1,"Vibrio phage KSF-1phi, complete genome",10-3,10-3
+YP_004286237.1,YP_004286237.1,hypothetical protein,putative assembly protein / zot-like protein,[5963:7247](+),427,NC_015209.1,"Vibrio phage CTX chromosome I, complete genome",10-3,10-3
+K05K4_52970,ARP21997.1,putative assembly protein,putative assembly protein / zot-like protein,[11737:12118](+),126,CP017906.1,"Vibrio phage K05K4_VK05K4_2, complete sequence",10-3,10-3
+VSKp13,NP_542362.1,VSK tox2,putative assembly protein / zot-like protein,[5456:6188](+),243,NC_003327.2,"Vibrio phage VSK, complete genome",10-3,10-3
+VfO4K68p7,NP_059547.1,putative assembly protein,putative assembly protein / zot-like protein,[3472:4858](+),461,NC_002363.1,"Vibrio phage VfO4K68, complete genome",10-3,10-3
+VSKp12,NP_542361.2,VSK-tox1,putative assembly protein / zot-like protein,[5022:5460](+),145,NC_003327.2,"Vibrio phage VSK, complete genome",10-3,10-3
+VEJphi_gp08,YP_002925195.1,putative assembly protein,putative assembly protein / zot-like protein,[3671:4907](+),411,NC_012757.1,"Vibrio phage VEJphi, complete genome",10-3,10-3
+VGJphip08,NP_835479.1,putative assembly protein,putative assembly protein / zot-like protein,[3754:4909](+),384,NC_004736.1,"Vibrio phage VGJphi, complete genome",10-3,10-3
+fs-2_8,NP_047371.1,assembly protein,putative assembly protein / zot-like protein,[5192:6278](+),361,NC_001956.1,"Vibrio phage fs2, complete genome",10-3,<5
+BAA33518.1,BAA33518.1,Vpf104,putative minor coat protein,[3059:3374](+),104,AB012574.1,"Vibrio phage Vf12 DNA, complete genome",5,5
+K05K4_52830,ARP21985.1,putative minor coat protein,putative minor coat protein,[3714:4029](+),104,CP017906.1,"Vibrio phage K05K4_VK05K4_2, complete sequence",5,5
+fs1p05,NP_695194.1,putative minor coat protein,putative minor coat protein,[1724:2039](+),104,NC_004306.1,"Vibrio phage fs1, complete genome",5,5
+VEJphi_gp07,YP_002925194.1,putative minor coat protein,putative minor coat protein,[3435:3750](+),104,NC_012757.1,"Vibrio phage VEJphi, complete genome",5,5
+BAJ12060.1,BAJ12060.1,putative minor capsid protein,putative minor coat protein,[1576:1891](+),104,AB572858.1,"Vibrio phage ND1-fs1 DNA, complete genome",5,5
+VSKp05,NP_542355.1,DNA replication initiation protein,DNA replication initiation protein,[1232:2339](+),368,NC_003327.2,"Vibrio phage VSK, complete genome",1,1
+BAA33520.2,BAA33520.2,Vpf402,DNA replication initiation protein,"join{[7347:7965](+), [0:591](+)}",402,AB012574.1,"Vibrio phage Vf12 DNA, complete genome",1,1
+KSF-1phigpORFXII,YP_087080.1,hypothetical protein,DNA replication initiation protein,[6427:6559](+),43,NC_006294.1,"Vibrio phage KSF-1phi, complete genome",1,1
+BAJ12068.1,BAJ12068.1,RstA protein,DNA replication initiation protein,[4972:6076](+),367,AB572858.1,"Vibrio phage ND1-fs1 DNA, complete genome",1,1
+K05K4_52680,ARP21970.1,DNA replication initiation protein,DNA replication initiation protein,[15281:16181](+),299,CP017905.1,"Vibrio phage K05K4_VK05K4_1, complete sequence",1,1
+AV950_gp02,YP_004286230.1,RstA,DNA replication initiation protein,[1404:2484](+),359,NC_015209.1,"Vibrio phage CTX chromosome I, complete genome",1,1
+VCYphi_gp02,YP_004934224.1,DNA replication initiation protein,DNA replication initiation protein,[251:1508](+),418,NC_016162.1,"Vibrio phage VCY-phi, complete genome",1,1
+VGJphip01,NP_835472.1,DNA replication initiation protein,DNA replication initiation protein,[0:1080](+),359,NC_004736.1,"Vibrio phage VGJphi, complete genome",1,1
+VfO4K68p1,NP_059541.1,DNA replication initiation protein,DNA replication initiation protein,"join{[6273:6891](+), [0:591](+)}",402,NC_002363.1,"Vibrio phage VfO4K68, complete genome",1,1
+VEJphi_gp01,YP_002925188.1,DNA replication initiation protein,DNA replication initiation protein,[0:1086](+),361,NC_012757.1,"Vibrio phage VEJphi, complete genome",1,1
+KSF-1phigpORFI,YP_087070.1,DNA replication initiation protein,DNA replication initiation protein,[0:1104](+),367,NC_006294.1,"Vibrio phage KSF-1phi, complete genome",1,1
+fs1p13,NP_695202.1,hypothetical protein,DNA replication initiation protein,[5083:5710](+),208,NC_004306.1,"Vibrio phage fs1, complete genome",1,1
+K05K4_52770,ARP21979.1,DNA replication initiation protein,DNA replication initiation protein,[99:1248](+),382,CP017906.1,"Vibrio phage K05K4_VK05K4_2, complete sequence",1,1
+fs1p12,NP_695201.1,hypothetical protein,DNA replication initiation protein,[4607:5108](+),166,NC_004306.1,"Vibrio phage fs1, complete genome",1,1
+K05K4_52430,ARP21945.1,DNA replication initiation protein,DNA replication initiation protein,[123:1146](+),340,CP017905.1,"Vibrio phage K05K4_VK05K4_1, complete sequence",1,1
+VfO3K6p09,NP_059539.1,putative transcription regulator,putative transcription regulator,[7081:7447](-),121,NC_002362.1,"Vibrio phage VfO3K6, complete genome",8,8
+K05K4_52860,ARP21988.1,regulator,putative transcription regulator,[5958:6333](-),124,CP017906.1,"Vibrio phage K05K4_VK05K4_2, complete sequence",8,8
+VGJphip10,NP_835481.1,putative transcription regulator,putative transcription regulator,[6101:6512](-),136,NC_004736.1,"Vibrio phage VGJphi, complete genome",8,8
+VSKp01,NP_542351.1,putative transcription regulator,putative transcription regulator,"join{[0:226](-), [6871:6882](-)}",78,NC_003327.2,"Vibrio phage VSK, complete genome",8,8
+VEJphi_gp09,YP_002925196.1,putative transcription regulator,putative transcription regulator,[5402:5813](-),136,NC_012757.1,"Vibrio phage VEJphi, complete genome",8,8
+VCYphi_gp10,YP_004934232.1,hypothetical protein,putative transcription regulator,[6236:6608](-),123,NC_016162.1,"Vibrio phage VCY-phi, complete genome",8,8
+K05K4_52640,ARP21966.1,regulator,putative transcription regulator,[13436:13793](-),118,CP017905.1,"Vibrio phage K05K4_VK05K4_1, complete sequence",8,8
+M692_gp11,YP_008130283.1,putative transcription regulator,putative transcription regulator,[7311:7719](-),135,NC_021562.1,"Vibrio phage VFJ, complete genome",8,8
+K05K4_52990,ARP21999.1,putative regulator protein,putative regulator protein,[12321:12507](-),61,CP017906.1,"Vibrio phage K05K4_VK05K4_2, complete sequence",4,4
+K05K4_52740,ARP21976.1,putative regulator protein,putative regulator protein,[19821:20085](-),87,CP017905.1,"Vibrio phage K05K4_VK05K4_1, complete sequence",4,4
+VSKp02,NP_542352.1,hypothetical protein,putative regulator protein,[149:608](-),152,NC_003327.2,"Vibrio phage VSK, complete genome",4,4
+VCYphi_gp11,YP_004934233.1,hypothetical protein,putative regulator protein,[6567:7032](-),154,NC_016162.1,"Vibrio phage VCY-phi, complete genome",4,4
+K05K4_52650,ARP21967.1,regulatory protein,putative regulator protein,[13789:14233](-),147,CP017905.1,"Vibrio phage K05K4_VK05K4_1, complete sequence",4,4
+K05K4_52980,ARP21998.1,regulatory protein,putative regulator protein,[12037:12319](-),93,CP017906.1,"Vibrio phage K05K4_VK05K4_2, complete sequence",4,4
+VfO3K6p10,NP_059540.1,hypothetical protein,putative regulator protein,[7424:7871](-),148,NC_002362.1,"Vibrio phage VfO3K6, complete genome",4,4
+K04M1_52460,ARP06767.1,regulatory protein,putative regulator protein,[6274:6757](-),160,CP017895.1,"Vibrio phage K04M1_VK04M1, complete sequence",4,4
+VEJphi_gp10,YP_002925197.1,putative regulator protein,putative regulator protein,[5904:6201](-),98,NC_012757.1,"Vibrio phage VEJphi, complete genome",4,4
+K05K4_52870,ARP21989.1,putative regulator protein,putative regulator protein,[6420:6756](-),111,CP017906.1,"Vibrio phage K05K4_VK05K4_2, complete sequence",4,4
+VGJphip11,NP_835482.1,hypothetical protein,putative regulator protein,[6435:6900](-),154,NC_004736.1,"Vibrio phage VGJphi, complete genome",4,4
+M692_gp12,YP_008130284.1,regulatory protein,putative regulator protein,[7642:8107](-),154,NC_021562.1,"Vibrio phage VFJ, complete genome",4,4
+K05K4_52530,ARP21955.1,regulatory protein,putative regulator protein,[6190:6655](-),154,CP017905.1,"Vibrio phage K05K4_VK05K4_1, complete sequence",4,4
+AAL40842.2,AAL40842.2,hypothetical protein,RstB protein,[3274:3604](+),109,AF452449.2,"Bacteriophage VSKK, complete genome",2,2
+K05K4_52920,ARP21992.1,RstB protein,RstB protein,[8830:9184](+),117,CP017906.1,"Vibrio phage K05K4_VK05K4_2, complete sequence",2,2
+fs1p14,NP_695203.1,hypothetical protein,RstB protein,[5714:6053](+),112,NC_004306.1,"Vibrio phage fs1, complete genome",2,2
+M692_gp01,YP_008130273.1,translation regulation protein,RstB protein,"join{[8214:8555](+), [0:1](+)}",113,NC_021562.1,"Vibrio phage VFJ, complete genome",2,2
+VSKp06,NP_542356.1,hypothetical protein,RstB protein,[2343:2667](+),107,NC_003327.2,"Vibrio phage VSK, complete genome",2,2
+K05K4_52690,ARP21971.1,RstB protein,RstB protein,[16337:16652](+),104,CP017905.1,"Vibrio phage K05K4_VK05K4_1, complete sequence",2,2
+K05K4_52440,ARP21946.1,hypothetical protein,RstB protein,[1149:1299](+),49,CP017905.1,"Vibrio phage K05K4_VK05K4_1, complete sequence",2,2
+KSF-1phigpORFII,YP_087071.1,hypothetical protein,RstB protein,[1108:1375](+),88,NC_006294.1,"Vibrio phage KSF-1phi, complete genome",2,2
+BAA33514.1,BAA33514.1,Vpf117,RstB protein,[594:948](+),117,AB012574.1,"Vibrio phage Vf12 DNA, complete genome",2,2
+VfO4K68p2,NP_059542.1,hypothetical protein,RstB protein,[594:954](+),119,NC_002363.1,"Vibrio phage VfO4K68, complete genome",2,2
+AV950_gp08,YP_004286236.1,Cep,hypothetical protein,[5704:5953](+),82,NC_015209.1,"Vibrio phage CTX chromosome I, complete genome",9,9
+K05K4_52750,ARP21977.1,hypothetical protein,hypothetical protein,[20198:20444](+),81,CP017905.1,"Vibrio phage K05K4_VK05K4_1, complete sequence",9,9
+K05K4_53000,ARP22000.1,hypothetical protein,hypothetical protein,[12620:12941](+),106,CP017906.1,"Vibrio phage K05K4_VK05K4_2, complete sequence",9,9
+K04M1_52470,ARP06768.1,hypothetical protein,hypothetical protein,[6870:7020](+),49,CP017895.1,"Vibrio phage K04M1_VK04M1, complete sequence",9,9
+K05K4_52760,ARP21978.1,hypothetical protein,hypothetical protein,[20388:20637](+),82,CP017905.1,"Vibrio phage K05K4_VK05K4_1, complete sequence",9,9
+VCYphi_gp01,YP_004934223.1,hypothetical protein,hypothetical protein,[0:252](+),83,NC_016162.1,"Vibrio phage VCY-phi, complete genome",9,9
+K05K4_52880,ARP21990.1,hypothetical protein,hypothetical protein,[6870:7482](+),203,CP017906.1,"Vibrio phage K05K4_VK05K4_2, complete sequence",9,9
+K05K4_52660,ARP21968.1,hypothetical protein,hypothetical protein,[14380:14959](+),192,CP017905.1,"Vibrio phage K05K4_VK05K4_1, complete sequence",9,9
+K05K4_52480,ARP21950.1,minor capsid protein,minor capsid protein,[2858:3614](+),251,CP017905.1,"Vibrio phage K05K4_VK05K4_1, complete sequence",0,0
+K05K4_52710,ARP21973.1,minor capsid protein,minor capsid protein,[17436:18732](+),431,CP017905.1,"Vibrio phage K05K4_VK05K4_1, complete sequence",0,0
+K05K4_52470,ARP21949.1,hypothetical protein,minor capsid protein,[2286:2862](+),191,CP017905.1,"Vibrio phage K05K4_VK05K4_1, complete sequence",0,0
+fs-2_6,NP_047369.1,hypothetical protein,minor capsid protein,[3316:4813](+),498,NC_001956.1,"Vibrio phage fs2, complete genome",0,0
+BAJ12059.1,BAJ12059.1,RstR protein,minor capsid protein,[93:1575](+),493,AB572858.1,"Vibrio phage ND1-fs1 DNA, complete genome",0,0
+AAL40841.1,AAL40841.1,hypothetical protein,minor capsid protein,[4958:5513](+),184,AF452449.2,"Bacteriophage VSKK, complete genome",0,0
+BAA33517.1,BAA33517.1,Vpf491,minor capsid protein,[1582:3058](+),491,AB012574.1,"Vibrio phage Vf12 DNA, complete genome",0,0
+VfO4K68p5,NP_059545.1,Vpf504,minor capsid protein,[1607:3122](+),504,NC_002363.1,"Vibrio phage VfO4K68, complete genome",0,0
+fs1p03,NP_695192.1,hypothetical protein,minor capsid protein,[243:1017](+),257,NC_004306.1,"Vibrio phage fs1, complete genome",0,0
+fs1p04,NP_695193.1,hypothetical protein,minor capsid protein,[971:1553](+),193,NC_004306.1,"Vibrio phage fs1, complete genome",0,0
+VEJphi_gp06,YP_002925193.1,minor capsid protein,minor capsid protein,[1952:3434](+),493,NC_012757.1,"Vibrio phage VEJphi, complete genome",0,0
+VGJphip06,NP_835477.1,putative adsorption protein,minor capsid protein,[1953:3435](+),493,NC_004736.1,"Vibrio phage VGJphi, complete genome",0,0
+VSKp09,NP_542358.2,memb2,minor capsid protein,[3150:3777](+),208,NC_003327.2,"Vibrio phage VSK, complete genome",0,0
+M692_gp07,YP_008130279.1,receptor-binding protein,minor capsid protein,[3027:4527](+),499,NC_021562.1,"Vibrio phage VFJ, complete genome",0,0
+K05K4_52810,ARP21983.1,hypothetical protein,minor capsid protein,[2239:2962](+),240,CP017906.1,"Vibrio phage K05K4_VK05K4_2, complete sequence",0,0
+K04M1_52410,ARP06762.1,minor capsid protein,minor capsid protein,[2239:3715](+),491,CP017895.1,"Vibrio phage K04M1_VK04M1, complete sequence",0,0
+VSKp10,NP_542359.1,memb3,minor capsid protein,[3795:4704](+),302,NC_003327.2,"Vibrio phage VSK, complete genome",0,0
+K05K4_52940,ARP21994.1,putative major coat protein,putative major coat protein,[9451:9685](+),77,CP017906.1,"Vibrio phage K05K4_VK05K4_2, complete sequence",6,6
+fs1p01,NP_695190.1,putative major coat protein,putative major coat protein,"join{[6319:6340](+), [0:114](+)}",44,NC_004306.1,"Vibrio phage fs1, complete genome",6,6
+VGJphip04,NP_835475.1,putative major capsid protein,putative major coat protein,[1689:1824](+),44,NC_004736.1,"Vibrio phage VGJphi, complete genome",6,6
+BAJ12070.1,BAJ12070.1,putative major coat protein precursor,putative major coat protein,[6571:6820](+),82,AB572858.1,"Vibrio phage ND1-fs1 DNA, complete genome",6,6
+BAA33516.1,BAA33516.1,Vpf77,putative major coat protein,[1215:1449](+),77,AB012574.1,"Vibrio phage Vf12 DNA, complete genome",6,6
